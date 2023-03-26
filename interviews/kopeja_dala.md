@@ -17,7 +17,7 @@ Tāpēc lūdzam Jūs apskatīt mūsu pašreizējās IT sistēmas iecerētās pra
 
 Visi nepieciešamie dokumenti, labojumi/komentāri un vērtējumi tiktu reģistrēti sistēmā, un būtu viegli pieejami visām ieinteresētajām pusēm. Sistēma arī sūtītu noteiktām lietotāju grupām aktuālus paziņojumus visa šī procesa laikā. Sistēmā tiktu iekļauti tādi rīki kā plaģiātisma pārbaudes rīks un gramatikas pārbaudes rīks. 
 
-Mēs arī gribam palūgt Jūs atbildēt uz sekojošiem jautājumiem. Mēs būsim ļoti pateicīgi, ja Jums būs iespēja to izdarīt nedēļas laikā līdz (konkrēts datums). Ja Jums ir ērti, var arī sarunāt interviju attālināti vai klātienē, lai vairāk apspriestu šo tēmu. Lūdzu, dodiet ziņu, ja intervijas variants Jums arī der.
+Mēs arī lūdzam Jūs atbildēt uz sekojošiem jautājumiem. Mēs būsim ļoti pateicīgi, ja Jūs varētu to izdarīt līdz (konkrēts datums). Ja Jums ērtāks būtu intervijas formāts, tad varam arī sarunāt interviju attālināti vai klātienē, lai vairāk apspriestu šo tēmu. Lūdzu, dodiet ziņu, ja Jūs labprātāk izvēlaties interviju.
 
 Jautājumi par bakalaura darba IT atbalsta sistēmu:
 
