@@ -11,13 +11,13 @@ Tāpēc lūdzam Jūs apskatīt mūsu pašreizējās IT sistēmas iecerētās pra
 5) Darba vadītājiem vērtēt un komentēt studenta bakalaura darbus vai atskaites to izstrādes procesa laikā;
 6) Studentam saņemt šos novērtētos darbus un veikt darbu labošanu, ja tā ir nepieciešama;
 7) Iesniegt gatavu bakalaura darbu;
-8) Gatavo bakalaura darbu nosūtīt uz plaģiātisma pārbaudi, un, ja darbs tiek uzskatīts par plaģiātu, to izskatīt komisijas sēdē;
+8) Gatavo bakalaura darbu nosūtīt uz plaģiātisma pārbaudi, un, ja darbs tiek uzskatīts par plaģiātu, komisijas sēdes rezultātus paziņot studentam;
 9) Darba vadītājam novērtēt gatavo bakalaura darbu;
 10) Komisijai novērtēt bakalaura darba aizstāvēšanu.
 
 Visi nepieciešamie dokumenti, labojumi/komentāri un vērtējumi tiktu reģistrēti sistēmā, un būtu viegli pieejami visām ieinteresētajām pusēm. Sistēma arī sūtītu noteiktām lietotāju grupām aktuālus paziņojumus visa šī procesa laikā. Sistēmā tiktu iekļauti tādi rīki kā plaģiātisma pārbaudes rīks un gramatikas pārbaudes rīks. 
 
-Mēs arī gribam palūgt Jūs atbildēt uz sekojošiem jautājumiem. Mēs būsim ļoti pateicīgi, ja Jums būs iespēja to izdarīt nedēļas laikā līdz (konkrēts datums). Ja Jums ir ērti, var arī sarunāt interviju attālināti vai klātienē, lai vairāk apspriestu šo tēmu. Lūdzu, dodiet ziņu, ja intervijas variants Jums arī der.
+Mēs arī lūdzam Jūs atbildēt uz sekojošiem jautājumiem. Mēs būsim ļoti pateicīgi, ja Jūs varētu to izdarīt līdz (konkrēts datums). Ja Jums ērtāks būtu intervijas formāts, tad varam arī sarunāt interviju attālināti vai klātienē, lai vairāk apspriestu šo tēmu. Lūdzu, dodiet ziņu, ja Jūs labprātāk izvēlaties interviju.
 
 Jautājumi par bakalaura darba IT atbalsta sistēmu:
 1. Kādas problēmas Jūs novērojāt ar bakalaura darba iesniegšanas, izstrādes, atbalsta procesā?
