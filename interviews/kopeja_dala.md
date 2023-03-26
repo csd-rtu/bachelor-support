@@ -11,7 +11,7 @@ Tāpēc lūdzam Jūs apskatīt mūsu pašreizējās IT sistēmas iecerētās pra
 5) Darba vadītājiem vērtēt un komentēt studenta bakalaura darbus vai atskaites to izstrādes procesa laikā;
 6) Studentam saņemt šos novērtētos darbus un veikt darbu labošanu, ja tā ir nepieciešama;
 7) Iesniegt gatavu bakalaura darbu;
-8) Gatavo bakalaura darbu nosūtīt uz plaģiātisma pārbaudi, un, ja darbs tiek uzskatīts par plaģiātu, to izskatīt komisijas sēdē;
+8) Gatavo bakalaura darbu nosūtīt uz plaģiātisma pārbaudi, un, ja darbs tiek uzskatīts par plaģiātu, komisijas sēdes rezultātus paziņot studentam;
 9) Darba vadītājam novērtēt gatavo bakalaura darbu;
 10) Komisijai novērtēt bakalaura darba aizstāvēšanu.
 
