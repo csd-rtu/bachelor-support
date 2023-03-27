@@ -41,7 +41,7 @@ Jautājumi par bakalaura darba IT atbalsta sistēmu:
        - SMS, 
        - Tērzētavas
        - Savs variants
-7. Ko Jūs domājāt par ideju implementēt publisko konkursu aizstāvētiem bakalaura darbiem, kas varētu būt prezentēti darba devējiem vai apskatīti, lai nokļūtu zinātniskos žurnālos?
+7. Ko Jūs domājat par ideju implementēt publisko konkursu aizstāvētiem bakalaura darbiem, kas varētu būt prezentēti darba devējiem vai apskatīti, lai nokļūtu zinātniskos žurnālos?
 8.	Kāds ir Jūsu viedoklis, vai personīgi Jums būtu ērti, ja viens students varētu pieteikties ierobežotām (piemēram, 2-3) bakalaura darba tēmu skaitam, noradot prioritāti? Šī funkcionalitāte varētu būt noderīga gadījumā, ja students, apspriežot darba nianses ar darba vadītāju, nolēmis, ka ir jāizvēlas citu bakalaura darba tēmu, bet cita (kas varētu būt prioritātes 2. vietā) tēma jau ir aizņemta. 
 9. Kādā veidā(funkcijas, izskats) Jūs gribētu redzēt plaģiātisma rīka pārbaudes rezultātu? (Piemēram, plaģiātisma procents, saites uz izmantotajām vietnēm)
 10. Vai Jūs apmierina, ka pašreiz tēmu pieteikšana notiek ar iesnieguma starpniecību?
