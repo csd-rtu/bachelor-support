@@ -34,7 +34,7 @@ Jautājumi par bakalaura darba IT atbalsta sistēmu:
        - SMS, 
        - Tērzētavas
        - Savs variants
-    5.4. Kādā komunikācijas veidā Jūs gribētu saņemt paziņojumus no cilvēka, kas sūta Jums paziņojumus? 
+    5.4. Kādā komunikācijas veidā Jūs gribētu saņemt paziņojumus, par saņemtajām ziņām no cilvēkiem?
        - e-pasts, 
        - SMS, 
        - Tērzētavas

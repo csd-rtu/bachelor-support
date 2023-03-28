@@ -26,7 +26,7 @@ Jautājumi par bakalaura darba IT atbalsta sistēmu:
    2.1. Kādas funkcijas ir jāveic sistēmai, lai pieteiktu konsultantu vai recenzentu?
 3. Kādi, Jūsuprāt, ir lielākie trūkumi ORTUS sistēmā un ikdienas darbā ar to? Kādas, Jūsuprāt, ir ORTUS sistēmas priekšrocības vai trūkumi bakalaura darba izstrādei?
 4. Kādi procesi bakalaura darba tēmas izvēlē Jums liekas pārāk sarežģīti? Kas Jūs apmierina pašreizējā bakalaura darba tēmas izvēles procesā?
-5. Vai Jūs uzskatāt, ka tas ir svarīgi nodrošināt komunikācijas iespēju sistēmas vidē, vai pietiek ar ārējiem resursiem, piemēram, e-pasts?
+5. Vai Jūs uzskatāt, ka ir svarīgi nodrošināt komunikācijas iespēju sistēmas vidē, vai pietiek ar ārējiem resursiem, piemēram, e-pastu?
     Ja apmierina:
     5.1. Vai ir vajadzīga tērzētava sistēmā? 
     5.2. Cik bieži Jūs lietojat tērzētavu, kas ir iebūvēta e-studijās? 
@@ -35,14 +35,14 @@ Jautājumi par bakalaura darba IT atbalsta sistēmu:
        - SMS, 
        - Tērzētavas
        - Savs variants
-    5.4. Kādā komunikācijas veidā Jūs gribētu saņemt paziņojumus no cilvēka, kas sūta Jums paziņojumus? 
+    5.4. Kādā komunikācijas veidā Jūs gribētu saņemt paziņojumus, par saņemtajām ziņām no cilvēkiem? 
        - e-pasts, 
        - SMS, 
        - Tērzētavas
        - Savs variants
 6. Vai Jūs apmierina, ka pašreiz tēmu pieteikšana notiek ar iesnieguma starpniecību?
-    Ja neapmierina - Kā Jūs redzat, kā šis process varētu būt izpildīts citādāk ar IT sistēmas palīdzību?
-7. Kāda funkcionalitāte var automatizēt Jūsu darbu saistītu ar bakalaura darba procesiem?
+    Ja neapmierina - Kā Jūs redzat, kā šis process varētu tikt izpildīts citādāk ar IT sistēmas palīdzību?
+7. Kāda funkcionalitāte varētu automatizēt Jūsu darbu saistībā ar bakalaura darba procesiem?
 8. Apskatot mūsu (e-pasta sākumā iekļautās) ieteiktās prasības, kas Jums patīk vai nepatīk šajā sistēmā, un vai Jums ir kādi ieteikumi?
 
 Milzīgs paldies par Jūsu veltīto laiku un atbildēm!

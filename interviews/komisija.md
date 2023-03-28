@@ -23,7 +23,7 @@ Jautājumi par bakalaura darba IT atbalsta sistēmu:
 
 1.	Kādas problēmas Jūs novērojāt ar bakalaura darba vērtēšanas procesā studentam, kas bija redzami aizstāvēšanas laikā?
 2. Kādā veidā(funkcijas, izskats) Jūs gribētu redzēt plaģiātisma rīka pārbaudes rezultātu? (Piemēram, plaģiātisma procents, saites uz izmantotajām vietnēm)
-3.	Kāda funkcionalitāte var automatizēt Jūsu darbu saistītu ar bakalaura darba procesiem?
+3.	Kāda funkcionalitāte varētu automatizēt Jūsu darbu saistībā ar bakalaura darba procesiem?
 4. Apskatot mūsu (e-pasta sākumā iekļautās) ieteiktās prasības, kas Jums patīk vai nepatīk šajā sistēmā, un vai Jums ir kādi ieteikumi?
 
 Milzīgs paldies par Jūsu veltīto laiku un atbildēm!

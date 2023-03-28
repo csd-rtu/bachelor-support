@@ -25,7 +25,7 @@ Jautājumi par bakalaura darba IT atbalsta sistēmu:
 2. Kā Jūs uzskatāt, kādiem ierobežojumiem jābūt, lai varētu pieteikties par konsultantu vai recenzentu? 
    2.1. Kādas funkcijas ir jāveic sistēmai, lai pieteiktu konsultantu vai recenzentu?
 3.	Kādi, Jūsuprāt, ir lielākie trūkumi ORTUS sistēmā un ikdienas darbā ar to?/Kādas, Jūsuprāt, ir ORTUS sistēmas priekšrocības vai trūkumi bakalaura darba izstrādei?
-4. Vai Jūs uzskatāt, ka tas ir svarīgi nodrošināt komunikācijas iespēju sistēmas vidē, vai pietiek ar ārējiem resursiem, piemēram, e-pasts?
+4. Vai Jūs uzskatāt, ka ir svarīgi nodrošināt komunikācijas iespēju sistēmas vidē, vai pietiek ar ārējiem resursiem, piemēram, e-pastu?
     Ja apmierina:
     4.1. Vai ir vajadzīga tērzētava sistēmā? 
     4.2. Cik bieži Jūs lietojat tērzētavu, kas ir iebūvēta e-studijās? 
@@ -34,17 +34,17 @@ Jautājumi par bakalaura darba IT atbalsta sistēmu:
        - SMS, 
        - Tērzētavas
        - Savs variants
-    4.4. Kādā komunikācijas veidā Jūs gribētu saņemt paziņojumus no cilvēka, kas sūta Jums paziņojumus? 
-       - e-pasts, 
+    4.4. Kādā komunikācijas veidā Jūs gribētu saņemt paziņojumus, par saņemtajām ziņām no cilvēkiem?
+      - e-pasts, 
        - SMS, 
        - Tērzētavas
        - Savs variants
-5.	Ko Jūs domājat par ideju implementēt publisko konkursu aizstāvētiem bakalaura darbiem, kas varētu būt prezentēti darba devējiem vai zinātniskos žurnālos?
+5.	Ko Jūs domājat par ideju implementēt publisko konkursu aizstāvētiem bakalaura darbiem, kas varētu tikt prezentēti darba devējiem vai zinātniskos žurnālos?
 6.	Kāds ir Jūsu viedoklis, vai personīgi Jums būtu ērti, ja viens students varētu pieteikties ierobežotam (piemēram, 2-3) bakalaura darba tēmu skaitam, norādot prioritāti? Šī funkcionalitāte varētu būt noderīga gadījumā, ja students, apspriežot darba nianses ar darba vadītāju, nolēmis, ka ir jāizvēlas citu bakalaura darba tēmu, bet cita (kas varētu būt prioritātes 2. vietā) tēma jau ir aizņemta. 
 7. Kādā veidā(funkcijas, izskats) Jūs gribētu redzēt plaģiātisma rīka pārbaudes rezultātu? (Piemēram, plaģiātisma procents, saites uz izmantotajām vietnēm)
 8. Vai Jūs apmierina, ka pašreiz tēmu pieteikšana notiek ar iesnieguma starpniecību?
-    Ja neapmierina - Kā Jūs redzat, kā šis process varētu būt izpildīts citādāk ar IT sistēmas palīdzību?
-9.	Kāda funkcionalitāte var automatizēt Jūsu darbu saistītu ar bakalaura darba procesiem?
+    Ja neapmierina - Kā Jūs redzat, kā šis process varētu tikt izpildīts citādāk ar IT sistēmas palīdzību?
+9.	Kāda funkcionalitāte varētu automatizēt Jūsu darbu saistībā ar bakalaura darba procesiem?
 10.	Apskatot (e-pastā iekļautās) mūsu ieteiktās prasības, kas Jums patīk vai nepatīk šajā sistēmā, un vai Jums ir kādi ieteikumi? (Aptaujas/intervijas beigās)
 
 Milzīgs paldies par Jūsu veltīto laiku un atbildēm!

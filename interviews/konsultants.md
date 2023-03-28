@@ -23,23 +23,23 @@ Jautājumi par bakalaura darba IT atbalsta sistēmu:
 1. Kādas problēmas Jūs novērojāt ar bakalaura darba iesniegšanas, izstrādes, atbalsta procesā?
 2.	Kādi, Jūsuprāt, ir lielākie trūkumi ORTUS sistēmā un ikdienas darbā ar to? Kādas, Jūsuprāt, ir ORTUS sistēmas priekšrocības vai trūkumi bakalaura darba izstrādei?
 3. Kādu vērtēšanas formu Jūs uzskatāt par visērtāko? Atsevišķi vērtēt un komentēt katru bakalaura darba daļu vai vērtēt visu darbu kopumā un komentēt darba daļas vienā formā, strukturējot tekstu, vai arī Jums ir kādas citas idejas par to, kā var novērtēt darbu?
-4. Vai Jūs uzskatāt, ka tas ir svarīgi nodrošināt komunikācijas iespēju sistēmas vidē, vai pietiek ar ārējiem resursiem, piemēram, e-pasts?
+4. Vai Jūs uzskatāt, ka ir svarīgi nodrošināt komunikācijas iespēju sistēmas vidē, vai pietiek ar ārējiem resursiem, piemēram, e-pastu?
     Ja apmierina:
     4.1. Vai ir vajadzīga tērzētava sistēmā? 
-    4.2. Cik bieži Jūs lietojāt tērzētavu, kas ir iebūvēta e-studijās? 
+    4.2. Cik bieži Jūs lietojat tērzētavu, kas ir iebūvēta e-studijās? 
     4.3. Kādā komunikācijas veidā Jūs gribētu saņemt paziņojumus no sistēmas? 
        - e-pasts, 
        - SMS, 
        - Tērzētavas
        - Savs variants
-    4.4. Kādā komunikācijas veidā Jūs gribētu saņemt paziņojumus no cilvēka, kas sūta Jums paziņojumus? 
+    4.4. Kādā komunikācijas veidā Jūs gribētu saņemt paziņojumus, par saņemtajām ziņām no cilvēkiem? 
        - e-pasts, 
        - SMS, 
        - Tērzētavas
        - Savs variants
 5. Vai Jūs apmierina, ka pašreiz tēmu pieteikšana notiek ar iesnieguma starpniecību?
-    Ja neapmierina - Kā Jūs redzat, kā šis process varētu būt izpildīts citādāk ar IT sistēmas palīdzību?
-6. Kāda funkcionalitāte var automatizēt Jūsu darbu saistītu ar bakalaura darba procesiem?
+    Ja neapmierina - Kā Jūs redzat, kā šis process varētu tikt izpildīts citādāk ar IT sistēmas palīdzību?
+6. Kāda funkcionalitāte varētu automatizēt Jūsu darbu saistībā ar bakalaura darba procesiem?
 7. Apskatot mūsu (e-pasta sākumā iekļautās) ieteiktās prasības, kas Jums patīk vai nepatīk šajā sistēmā, un vai Jums ir kādi ieteikumi?
 
 Milzīgs paldies par Jūsu veltīto laiku un atbildēm!
