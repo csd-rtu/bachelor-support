@@ -29,7 +29,7 @@ Jautājumi par bakalaura darba IT atbalsta sistēmu:
 5. Vai Jūs uzskatāt, ka tas ir svarīgi nodrošināt komunikācijas iespēju sistēmas vidē, vai pietiek ar ārējiem resursiem, piemēram, e-pasts?
     Ja apmierina:
     5.1. Vai ir vajadzīga tērzētava sistēmā? 
-    5.2. Cik bieži Jūs lietojāt tērzētavu, kas ir iebūvēta e-studijās? 
+    5.2. Cik bieži Jūs lietojat tērzētavu, kas ir iebūvēta e-studijās? 
     5.3. Kādā komunikācijas veidā Jūs gribētu saņemt paziņojumus no sistēmas? 
        - e-pasts, 
        - SMS, 
