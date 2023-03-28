@@ -21,14 +21,14 @@ Mēs arī lūdzam Jūs atbildēt uz sekojošiem jautājumiem. Mēs būsim ļoti 
 
 Jautājumi par bakalaura darba IT atbalsta sistēmu:
 
-1. Kādas problēmas Jūs novērojāt ar bakalaura darba iesniegšanas un izstrādes procesā?
+1. Kādas problēmas Jūs novērojāt ar bakalaura darba iesniegšanas un izstrādes saistītajiem procesiem?
 2. Kādu vērtēšanas formu Jūs uzskatāt par visērtāko? Atsevišķi vērtēt un komentēt katru bakalaura darba daļu vai vērtēt visu darbu kopumā un komentēt darba daļas vienā formā, strukturējot tekstu, vai arī Jums ir kādas citas idejas par to, kā var novērtēt darbu?
 3.	Kādi, Jūsuprāt, ir lielākie trūkumi ORTUS sistēmā un ikdienas darbā ar to? Kādas, Jūsuprāt, ir ORTUS sistēmas priekšrocības vai trūkumi bakalaura darba izstrādei?
 4. Kādi procesi bakalaura darba tēmas izvēlē Jums liekas pārāk sarežģīti? Kas Jūs apmierina pašreizējā bakalaura darba tēmas izvēles procesā?
-5. Vai Jūs uzskatāt, ka tas ir svarīgi nodrošināt komunikācijas iespēju sistēmas vidē, vai pietiek ar ārējiem resursiem, piemēram, e-pasts?
+5. Vai Jūs uzskatāt, ka ir svarīgi nodrošināt komunikācijas iespēju sistēmas vidē, vai pietiek ar ārējiem resursiem, piemēram, e-pastu?
     Ja apmierina:
     5.1. Vai ir vajadzīga tērzētava sistēmā? 
-    5.2. Cik bieži Jūs lietojāt tērzētavu, kas ir iebūvēta e-studijās? 
+    5.2. Cik bieži Jūs lietojat tērzētavu, kas ir iebūvēta e-studijās? 
     5.3. Kādā komunikācijas veidā Jūs gribētu saņemt paziņojumus no sistēmas? 
        - e-pasts, 
        - SMS, 
@@ -39,11 +39,11 @@ Jautājumi par bakalaura darba IT atbalsta sistēmu:
        - SMS, 
        - Tērzētavas
        - Savs variants
-6. Ko Jūs domājāt par ideju implementēt publisko konkursu aizstāvētiem bakalaura darbiem, kas varētu būt prezentēti darba devējiem vai apskatīti, lai nokļūtu zinātniskos žurnālos?
-7.	Kāds ir Jūsu viedoklis, vai personīgi Jums būtu ērti, ja viens students varētu pieteikties ierobežotām (piemēram, 2-3) bakalaura darba tēmu skaitam, noradot prioritāti? Šī funkcionalitāte varētu būt noderīga gadījumā, ja students, apspriežot darba nianses ar darba vadītāju, nolēmis, ka ir jāizvēlas citu bakalaura darba tēmu, bet cita (kas varētu būt prioritātes 2. vietā) tēma jau ir aizņemta. 
+6. Ko Jūs domājāt par ideju implementēt publisko konkursu aizstāvētiem bakalaura darbiem, kas varētu tikt prezentēti darba devējiem vai apskatīti, lai nokļūtu zinātniskos žurnālos?
+7.	Kāds ir Jūsu viedoklis, vai personīgi Jums būtu ērti, ja viens students varētu pieteikties ierobežotam (piemēram, 2-3) bakalaura darba tēmu skaitam, norādot prioritāti? Šī funkcionalitāte varētu būt noderīga gadījumā, ja students, apspriežot darba nianses ar darba vadītāju, nolēmis, ka ir jāizvēlas citu bakalaura darba tēmu, bet cita (kas varētu būt prioritātes 2. vietā) tēma jau ir aizņemta. 
 8. Vai Jūs apmierina, ka pašreiz tēmu pieteikšana notiek ar iesnieguma starpniecību?
-    Ja neapmierina - Kā Jūs redzat, kā šis process varētu būt izpildīts citādāk ar IT sistēmas palīdzību?
-9. Kāda funkcionalitāte var automatizēt Jūsu darbu saistītu ar bakalaura darba procesiem?
+    Ja neapmierina - Kā Jūs redzat, kā šis process varētu tikt izpildīts citādāk ar IT sistēmas palīdzību?
+9. Kāda funkcionalitāte varētu automatizēt Jūsu darbu saistībā ar bakalaura darba procesiem?
 10. Apskatot mūsu (e-pasta sākumā iekļautās) ieteiktās prasības, kas Jums patīk vai nepatīk šajā sistēmā, un vai Jums ir kādi ieteikumi?
 
 Milzīgs paldies par Jūsu veltīto laiku un atbildēm!
