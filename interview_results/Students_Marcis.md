@@ -1,4 +1,3 @@
-Students/Marcis
 1) Iekļaut bakalaura darba vadītāju sarakstu, kas būs brīvi pieejams visiem studentiem; Piekrītu
 2) Iekļaut bakalaura tēmu sarakstu, kuru var rediģēt reālā laikā aktuālu izmaiņu gadījumos, kā, piemēram, tēmas nepieejamības gadījumā; Piekrītu
 3) Sistēmas ietveros studentam izvēlēties bakalaura darba tēmu un darba vadītāju, uzrakstīt un iesniegt iesniegumu par šo izvēlēto tēmu; Piekrītu
@@ -51,9 +50,3 @@ Jā, apmierina.
 Kaut kas kas palīdzētu atrast līdzīgu informāciju par to kas ir irvākta tikai no citu valodu avotiem, tādā veidā apskatot vairāk informāciju, ko pašam nebūtu tik viegli atrast. 
 10. Apskatot mūsu (e-pasta sākumā iekļautās) ieteiktās prasības, kas Jums patīk vai nepatīk šajā sistēmā, un vai Jums ir kādi ieteikumi?
 Mans ieteikums ir pŗc iespējas ātrāk šo ieviest.
-Milzīgs paldies par Jūsu veltīto laiku un atbildēm!
-
-Ar cieņu
-Oto Toms Dzintars
-3. kursa students studiju kursā “Datorsistēmas projektēšanas pamati”
-
