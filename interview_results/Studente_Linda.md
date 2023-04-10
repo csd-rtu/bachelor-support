@@ -65,9 +65,5 @@ Ja būtu izstrādātā kāda funkcionalitāte saistībā ar atsauču izvietošan
 10.	Apskatot mūsu (e-pasta sākumā iekļautās) ieteiktās prasības, kas Jums patīk vai nepatīk šajā sistēmā, un vai Jums ir kādi ieteikumi?
 8.punkts=> ļaut studentiem pārbaudīt savu darbu uz plaģiātismu un to salabot pirms darbs tiek oficiāli iesniegts vērtēšanai.
 
-Milzīgs paldies par Jūsu veltīto laiku un atbildēm!
 
-Ar cieņu
-Oto Toms Dzintars
-3. kursa students studiju kursā “Datorsistēmas projektēšanas pamati”
 
