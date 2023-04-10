@@ -98,3 +98,58 @@ Faktiski manu darbu automatizē NDR, bet tajā ir jāsakārto pielikumā minēt�
 9. Apskatot (e-pastā iekļautās) mūsu ieteiktās prasības, kas Jums
 patīk vai nepatīk šajā sistēmā, un vai Jums ir kādi ieteikumi?
 Ārpus studentu projekta es neesmu pārliecināts, vai ir nepieciešama vēl viena neatkarīga sistēma, kurā kaut kas notiek. Mums jau ir Moodle un NDR. Drīzāk būtu jādomā, kā uzlabot šo rīku funkcionalitāti.
+
+
+
+---kaut kas-----
+
+
+Šajā jūnijā un tagad septembrī strādājot ar noslēguma darbiem jaunajā
+NDR Lietišķo datorsistēmu institūta (LDI) kolektīvam radās šādi lūgumi
+pēc uzlabojumiem. Droši vien, ka daudziem šis nav tik svarīgi, bet LDI
+specifika ir tāda, ka mēs esam lieli un mums ir daudz noslēgumu darbu –
+ir bijusi sesija, kad to ir virs 100. Attiecīgi šobrīd ar esošo rīku tos
+ir sarežģīti pārvaldīt. Balstoties uz lietvežu sniegto informāciju, esmu
+apkopojis mums svarīgās lietas:
+1)    studentam jādod piekļuve sava darba vadītājā atsauksmei un
+recenzijai, jo šobrīd tās manuāli jāsūta katram studentam uz e-pastu
+pirms aizstāvēšanās. Alternatīva: kāds (pus)automātisks mehānisms to
+nozūtīšanai (ne lejupielādēt failus un manuāli pievienot e-pastam).
+2)    tā kā ir gadījumi, kad ievērojami atšķiras darba vadītāja un
+recenzenta vērtējumi, kas paredz otru recenziju, jābūt paredzētai vietai
+otras recenzijas augšupielādei;
+3)    pirms vadītāja apstiprināšanai jābūt vēl vienam solim, kurā
+lietvedes apstiprina nosaukuma,  noformējuma atbilstību un paraksta
+eksistenci utml. Aktuālākais no šiem ir par parakstu, jo studenti bieži
+vien atzīmē, ka darbs ir parakstīts, bet dokumentā paraksta nav. Šajā
+gadījumā lietvedim pēc iespējas ātrāk tas ir jāpamana un jāatgriež
+darbs. Respektīvi, ja students augšupielādēja darbu bez e-paraksta, vai
+kļūdaini nospieda pogu “Bez e-paraksta”, vajag paredzēt iespēju noraidīt
+darbu;
+4)    atlasītos darbos pēc noslēguma darbu meklēšanas jābūt attēlotam
+darba iesniegšanas datumam;
+5)    pēc noteiktā darba iesniegšanas datuma un laika, students darbu
+var augšupielādēt tikai ar vadītāja un programmas direktora atļauju, ja
+tam ir objektīvi iemesli.
+6)    Lietvedim, kas strādā ar noslēguma darbiem, jāsaņem paziņojumi uz
+savu e-pastu. Respektīvi, tiem lietvežiem, kas reāli strādā ar
+konkrētajiem noslēguma darbiem.  Mūsu institūtā šis tiek deleģēts 3
+lietvežiem, jo ar 100 darbiem viens lietvedis paralēli ar citiem darbiem
+galā netiek. (vissvarīgākais, ka students ir augšupielādējis darbu ORTUS
+un vadītājs apstiprina darbu aizstāvēšanai).
+7)    Jābūt iespējai iedot piekļuvi noslēguma darbiem, atsauksmēm un
+recenzijām aizstāvēšanas komisijas locekļiem. Šobrīd, lai komisija
+varētu piekļūt darbiem un normāli strādāt, mums nākas veidot papildus
+mākoni.
+
+Papildus par Studiju vadības sistēmu: pašlaik sistēmā ir paredzēts viens
+rīkojums, kurā tiek apstiprināti šādi dati: noslēguma darba tēma,
+vadītājs un recenzents. Būtu labāk, ja rīkojums par recenzenta
+nozīmēšanu  būt atsevišķs dokuments, jo bez rīkojuma par noslēguma darba
+tēmas un vadītāja apstiprināšanu students nevar augšupielādēt darbu
+Noslēguma darbu reģistrā, bet recenzents jānozīmē pēc darba
+iesniegšanas. Mums tas būtu svarīgi, jo studentu skaits ir liels un
+visiem studentiem, kam ir tiesības iesniegt darbus, nozīmēt recenzentu
+ir darbietilpīgi. Tas atbilst arī  Nolikuma par studiju noslēguma
+pārbaudījumiem Rīgas Tehniskajā universitātē 5.6 p. :”Recenzentu
+apstiprina ne vēlāk kā 5 (piecas) darba dienas pirms darba aizstāvēšanas”.
