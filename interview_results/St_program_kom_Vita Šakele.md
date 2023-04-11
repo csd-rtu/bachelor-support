@@ -27,7 +27,7 @@ Jā.
 
 Un kur recenzents? Kur viņš novērtē darbu?
 
-Komisijai novērtēt bakalaura darba aizstāvēšanu.
+10. Komisijai novērtēt bakalaura darba aizstāvēšanu.
 Dot komisijai piekļuvi darbam jā. Vēl nepieciešama īpaša piekļuvi komisijas sekretārei, kas sagatavo aizstāvēšanas protokolu. Kā arī komisijai šis protokols ir jāparaksta un protokols attiecīgi ir jāpievieno arī studenta lietai.
 
 Visi nepieciešamie dokumenti, labojumi/komentāri un vērtējumi tiktu reģistrēti sistēmā, un būtu viegli pieejami visām ieinteresētajām pusēm. Sistēma arī sūtītu noteiktām lietotāju grupām aktuālus paziņojumus visa šī procesa laikā. Sistēmā tiktu iekļauti tādi rīki kā plaģiātisma pārbaudes rīks un gramatikas pārbaudes rīks.
@@ -36,14 +36,14 @@ Mēs arī lūdzam Jūs atbildēt uz sekojošiem jautājumiem. Mēs būsim ļoti 
 
 Jautājumi par bakalaura darba IT atbalsta sistēmu:
 
-Kādas problēmas Jūs novērojāt ar bakalaura darba vērtēšanas procesā studentam, kas bija redzami aizstāvēšanas laikā?
+1. Kādas problēmas Jūs novērojāt ar bakalaura darba vērtēšanas procesā studentam, kas bija redzami aizstāvēšanas laikā?
 Ir bijušas dažādas, bet tas saistīts ar RTU Noslēguma darbu reģistru izstrādi un ne pārāk veiksmīgo tā testēšanu. Kādas izmaiņas tur ir ieviestas kopš janvāra es nezinu.
 
-Kādā veidā(funkcijas, izskats) Jūs gribētu redzēt plaģiātisma rīka pārbaudes rezultātu? (Piemēram, plaģiātisma procents, saites uz izmantotajām vietnēm)
+2. Kādā veidā(funkcijas, izskats) Jūs gribētu redzēt plaģiātisma rīka pārbaudes rezultātu? (Piemēram, plaģiātisma procents, saites uz izmantotajām vietnēm)
 Plaģiāta pārbaudes rīks jeb precīzāk teksta sakritības noteikšanas rīks, jo ir izstrādājis un asoc.prof. G.Jēkabsons pilnībā nodrošina visas nepieciešamās funkcijas un ir ar pietiekoši ērtu saskarni.
 
-Kāda funkcionalitāte varētu automatizēt Jūsu darbu saistībā ar bakalaura darba procesiem?
+3. Kāda funkcionalitāte varētu automatizēt Jūsu darbu saistībā ar bakalaura darba procesiem?
 No tēmu iesniegumiem izgūt sarakstu studentiem, tēmām, vadītājiem. Attiecīgi no šiem datiem varētu ģenerēt sagataves dažādiem citiem dokumentiem, piemēram, rīkojumiem par recenzentiem. Bet par šo vairāk varētu pastāstīt S.Kataļņikova.
 
-Apskatot mūsu (e-pasta sākumā iekļautās) ieteiktās prasības, kas Jums patīk vai nepatīk šajā sistēmā, un vai Jums ir kādi ieteikumi?
+4. Apskatot mūsu (e-pasta sākumā iekļautās) ieteiktās prasības, kas Jums patīk vai nepatīk šajā sistēmā, un vai Jums ir kādi ieteikumi?
 Šobrīd lielākais atbalsts ir nepieciešamas tieši ar tēmu izvēli, jo visi citi procesi saistībā ar bakalaura darba izstrādi ir jau pietiekoši automatizēti vai atbalstīti ar citām RTU sistēmām.
