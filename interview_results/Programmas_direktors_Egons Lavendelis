@@ -1,0 +1,155 @@
+1. Iekļaut bakalaura darba vadītāju sarakstu, kas būs brīvi pieejams
+visiem studentiem;
+Jā
+2. Iekļaut bakalaura tēmu sarakstu, kuru var rediģēt reālā laikā
+aktuālu izmaiņu gadījumos, kā, piemēram, tēmas nepieejamības gadījumā; 
+Jā
+3. Sistēmas ietveros studentam izvēlēties bakalaura darba tēmu un
+darba vadītāju, uzrakstīt un iesniegt iesniegumu par šo izvēlēto tēmu; 
+
+Daļēji. Tas nedrīkst notikt bez saskaņojuma un parasti arī sarunas ar vadītāju.
+4. Visām ieinteresētajām pusēm 3) punktā norādīto iesniegumu (ja tas
+ir apstiprināts) parakstīt un reģistrēt sistēmā, vai arī to (ja tas
+nav apstiprināts) noraidīt;
+Jā.
+5. Darba vadītājiem vērtēt un komentēt studenta bakalaura darbus vai
+atskaites to izstrādes procesa laikā;
+Domāju, ka pašai teksta komentēšanai būtu jānotiek teksta redaktorā. Atskaišu iesniegšanai un vērtējumu sniegšanai var būt atbilstoša funkcionalitāte. Tomēr tam ir labi izmantojama arī Moodle vide ORTUS ietvaros.
+6. Studentam saņemt šos novērtētos darbus un veikt darbu labošanu, ja
+tā ir nepieciešama;
+Manuprāt šis iekļaujas 5. prasībā.
+7. Iesniegt gatavu bakalaura darbu;
+Nē. Tas ir jāiesniedz RTU vienotā noslēgumu darbu reģistrā (NDR).
+8. Gatavo bakalaura darbu nosūtīt uz plaģiātisma pārbaudi, un, ja
+darbs tiek uzskatīts par plaģiātu, komisijas sēdes rezultātus paziņot
+studentam;
+Nē. Tas notiek NDR. Turklāt tikai balstoties uz sistēmas veikto analīzi darbu nevar uzskatīt par plaģiātu. Gala lēmumu vienmēr pieņem cilvēks(-i).
+9. Darba vadītājam novērtēt gatavo bakalaura darbu;
+Nē, tas notiek NDR.
+10. Komisijai novērtēt bakalaura darba aizstāvēšanu.
+Kā šo saprast? Katrs komisijas loceklis atsevišķi darbu nevērtē. Vērtējumam komisijas sekretāre sagatavo protokolu. Tas šobrīd notiek studiju sistēmā, kur tas ir obligāti jāizdara, lai students varētu saņemt diplomu. Attiecīgi, ja kaut ko darāt savā sistēmā, ir jāsaprot, kā tā tiek integrēta ar studiju vadības sistēmu. Diemžēl tas nebūs viegli.
+Visi nepieciešamie dokumenti, labojumi/komentāri un vērtējumi tiktu
+reģistrēti sistēmā, un būtu viegli pieejami visām ieinteresētajām
+pusēm. Sistēma arī sūtītu noteiktām lietotāju grupām aktuālus
+paziņojumus visa šī procesa laikā. Sistēmā tiktu iekļauti tādi rīki kā
+plaģiātisma pārbaudes rīks un gramatikas pārbaudes rīks.
+
+Mēs arī lūdzam Jūs atbildēt uz sekojošiem jautājumiem. Mēs būsim ļoti
+pateicīgi, ja Jūs varētu to izdarīt līdz 07.04.2023.
+
+Jautājumi par bakalaura darba IT atbalsta sistēmu:
+
+1. Kādas problēmas Jūs novērojāt ar bakalaura darba iesniegšanas,
+izstrādes, atbalsta procesā?
+Ar NDR problēmu ir daudz. Pievienoju pielikumā tās, kas ir saistītas ar NDR jauno versiju un tur integrēto procesu (dokuments gatavots 22. gada jūnijā un nosūtīts IT departamentam labojumu veikšanai).
+
+No studentu viedokļa droši vien ir problēma ar tēmu izvēles procesu - kā savlaicīgi saņemt atbildes no vadītājiem. Par šo varat nointervēt savus kursa biedrus.
+
+Noteikti šo jautājumu varat pajautāt arī katedru lietvedēm - viņas ir tās, kas fiziski strādā ar šo procesu.
+2. Kā Jūs uzskatāt, kādiem ierobežojumiem jābūt, lai varētu
+pieteikties par konsultantu vai recenzentu?
+Konsultants ir reta parādība. To konkrētam darbam piesaista vadītājs. Nedomāju, ka ir nepieciešams definēt kādus īpašus ierobežojumus, jo situācijas, kad darbam piesaista konsultantu ir dažādas un specifiskas.
+Recenzentam prasības ir vienkāršas - vienu pakāpi augstāks grāds nekā recenzējamā darba līmenis. Attiecīgi, lai recenzētu bakalaura darbus, nepieciešams maģistra grāds attiecīgajā jomā, bet, lai reģistrētu maģistra darbus - doktora grāds.
+
+Tomēr no sistēmas viedokļa - es nedomāju, ka būs gadījumi, kad recenzents pats brīvprātīgi kaut kur pieteiksies. Tas ir sabiedriskais darbs, kura veikšanai cilvēki ir jāuzrunā personīgi. Attiecīgi nevar būt situācija, kad recenzentam vēl ir kaut kur jāpeisakās, jāveido profils, utt.
+2.1. Kādas funkcijas ir
+jāveic sistēmai, lai pieteiktu konsultantu vai recenzentu?
+Konsultantu nozīmē darba vadītājs atbilstoši situācijai. Recenzentus sistēmā reģistrē lietvedes. Recenzentu jāvar reģistrēt, pievienot darbam un darbu jāvar nosūtīt recenzentam (ja darbi sistēmā ir, par ko stipri šaubos).
+3. Vai Jūs uzskatāt, ka ir svarīgi nodrošināt komunikācijas iespēju
+sistēmas vidē, vai pietiek ar ārējiem resursiem, piemēram, e-pastu? Ja
+apmierina: 
+Nē. Esmu pret vēl vienu vietu, kur man ir jālasa ziņojumi. Varētu gan būt iespēja nosūtīt e-pastu no sistēmas, bet jābūt iespējai uz to atbildēt e-pastā, nevis sistēmā.
+3.1. Vai ir vajadzīga tērzētava sistēmā? 3.2. Cik bieži Jūs
+lietojat tērzētavu, kas ir iebūvēta e-studijās? 
+Samērā bieži - e-pastu izsūtīšanai studentu grupām. Uzsveru: tikai izsūtīšanai. Līdzīgi ir jābūt Jūsu sistēmā.
+3.3. Kādā
+komunikācijas veidā Jūs gribētu saņemt paziņojumus no sistēmas? -
+e-pasts, - SMS, - Tērzētavas - Savs variants 
+Tikai e-pasts.
+3.4. Kādā komunikācijas
+veidā Jūs gribētu saņemt paziņojumus, par saņemtajām ziņām no
+cilvēkiem? - e-pasts, - SMS, - Tērzētavas - Savs variants
+Pašas ziņas e-pastā  un nav nepieciešams papildus spams par saņemtajām ziņām.
+4. Ko Jūs domājāt par ideju implementēt publisko konkursu aizstāvētiem
+bakalaura darbiem, kas varētu tikt prezentēti darba devējiem vai
+zinātniskos žurnālos?
+Šāds konkurss ir - ZIBIT.
+
+Domāju, ka darbojas labi. Zinātniskos žurnālos bakalaura darbu rezultāti publicējami ir ļoti reti.
+
+5. Kāds ir Jūsu viedoklis, vai personīgi Jums būtu ērti, ja viens
+students varētu pieteikties ierobežotam (piemēram, 2-3) bakalaura
+darba tēmu skaitam, norādot prioritāti? Šī funkcionalitāte varētu būt
+noderīga gadījumā, ja students, apspriežot darba nianses ar darba
+vadītāju, nolēmis, ka ir jāizvēlas citu bakalaura darba tēmu, bet cita
+(kas varētu būt prioritātes 2. vietā) tēma jau ir aizņemta.
+Nedomāju, ka tā ir laba doma. No savas puses praktizēju, ka reālai izvēlei vispirms ir nepieciešama diskusija starp studentu un vadītāju par tēmu, kuras laikā tēma bieži tiek precizēta vai arī students atsakās no tēmas, jo sparot, ka tā tomēr nav priekš viņa. Līdz ar to kaut kāds mehānisks prioritāšu saraksts diez vai labi strādās.
+6. Kādā veidā(funkcijas, izskats) Jūs gribētu redzēt plaģiātisma rīka
+pārbaudes rezultātu? (Piemēram, plaģiātisma procents, saites uz
+izmantotajām vietnēm)
+CAPS implementētais skats ar dokumentu un avotiem blakus ir labs. Visas man nepieciešamās lietas šajā rīkā ir realizētas.
+7. Vai Jūs apmierina, ka pašreiz tēmu pieteikšana notiek ar iesnieguma
+starpniecību? Ja neapmierina - Kā Jūs redzat, kā šis process varētu
+tikt izpildīts citādāk ar IT sistēmas palīdzību?
+Saskaņā ar DITF domes lēmumu (un laikam arī senāta noteikumiem), tam ir jānotiek ar parakstītiem iesniegumiem. Rekomendēju parakstīt elektroniski.
+8. Kāda funkcionalitāte varētu automatizēt Jūsu darbu saistībā ar
+bakalaura darba procesiem?
+Faktiski manu darbu automatizē NDR, bet tajā ir jāsakārto pielikumā minētās lietas.
+9. Apskatot (e-pastā iekļautās) mūsu ieteiktās prasības, kas Jums
+patīk vai nepatīk šajā sistēmā, un vai Jums ir kādi ieteikumi?
+Ārpus studentu projekta es neesmu pārliecināts, vai ir nepieciešama vēl viena neatkarīga sistēma, kurā kaut kas notiek. Mums jau ir Moodle un NDR. Drīzāk būtu jādomā, kā uzlabot šo rīku funkcionalitāti.
+
+
+
+---kaut kas-----
+
+
+Šajā jūnijā un tagad septembrī strādājot ar noslēguma darbiem jaunajā
+NDR Lietišķo datorsistēmu institūta (LDI) kolektīvam radās šādi lūgumi
+pēc uzlabojumiem. Droši vien, ka daudziem šis nav tik svarīgi, bet LDI
+specifika ir tāda, ka mēs esam lieli un mums ir daudz noslēgumu darbu –
+ir bijusi sesija, kad to ir virs 100. Attiecīgi šobrīd ar esošo rīku tos
+ir sarežģīti pārvaldīt. Balstoties uz lietvežu sniegto informāciju, esmu
+apkopojis mums svarīgās lietas:
+1)    studentam jādod piekļuve sava darba vadītājā atsauksmei un
+recenzijai, jo šobrīd tās manuāli jāsūta katram studentam uz e-pastu
+pirms aizstāvēšanās. Alternatīva: kāds (pus)automātisks mehānisms to
+nozūtīšanai (ne lejupielādēt failus un manuāli pievienot e-pastam).
+2)    tā kā ir gadījumi, kad ievērojami atšķiras darba vadītāja un
+recenzenta vērtējumi, kas paredz otru recenziju, jābūt paredzētai vietai
+otras recenzijas augšupielādei;
+3)    pirms vadītāja apstiprināšanai jābūt vēl vienam solim, kurā
+lietvedes apstiprina nosaukuma,  noformējuma atbilstību un paraksta
+eksistenci utml. Aktuālākais no šiem ir par parakstu, jo studenti bieži
+vien atzīmē, ka darbs ir parakstīts, bet dokumentā paraksta nav. Šajā
+gadījumā lietvedim pēc iespējas ātrāk tas ir jāpamana un jāatgriež
+darbs. Respektīvi, ja students augšupielādēja darbu bez e-paraksta, vai
+kļūdaini nospieda pogu “Bez e-paraksta”, vajag paredzēt iespēju noraidīt
+darbu;
+4)    atlasītos darbos pēc noslēguma darbu meklēšanas jābūt attēlotam
+darba iesniegšanas datumam;
+5)    pēc noteiktā darba iesniegšanas datuma un laika, students darbu
+var augšupielādēt tikai ar vadītāja un programmas direktora atļauju, ja
+tam ir objektīvi iemesli.
+6)    Lietvedim, kas strādā ar noslēguma darbiem, jāsaņem paziņojumi uz
+savu e-pastu. Respektīvi, tiem lietvežiem, kas reāli strādā ar
+konkrētajiem noslēguma darbiem.  Mūsu institūtā šis tiek deleģēts 3
+lietvežiem, jo ar 100 darbiem viens lietvedis paralēli ar citiem darbiem
+galā netiek. (vissvarīgākais, ka students ir augšupielādējis darbu ORTUS
+un vadītājs apstiprina darbu aizstāvēšanai).
+7)    Jābūt iespējai iedot piekļuvi noslēguma darbiem, atsauksmēm un
+recenzijām aizstāvēšanas komisijas locekļiem. Šobrīd, lai komisija
+varētu piekļūt darbiem un normāli strādāt, mums nākas veidot papildus
+mākoni.
+
+Papildus par Studiju vadības sistēmu: pašlaik sistēmā ir paredzēts viens
+rīkojums, kurā tiek apstiprināti šādi dati: noslēguma darba tēma,
+vadītājs un recenzents. Būtu labāk, ja rīkojums par recenzenta
+nozīmēšanu  būt atsevišķs dokuments, jo bez rīkojuma par noslēguma darba
+tēmas un vadītāja apstiprināšanu students nevar augšupielādēt darbu
+Noslēguma darbu reģistrā, bet recenzents jānozīmē pēc darba
+iesniegšanas. Mums tas būtu svarīgi, jo studentu skaits ir liels un
+visiem studentiem, kam ir tiesības iesniegt darbus, nozīmēt recenzentu
+ir darbietilpīgi. Tas atbilst arī  Nolikuma par studiju noslēguma
+pārbaudījumiem Rīgas Tehniskajā universitātē 5.6 p. :”Recenzentu
+apstiprina ne vēlāk kā 5 (piecas) darba dienas pirms darba aizstāvēšanas”.
