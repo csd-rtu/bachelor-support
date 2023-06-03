@@ -329,4 +329,302 @@ Rezultāts:
 
 ]
 
+== Saziņas iespējas starp iesaistītajām pusēm
+
+=== Ziņu sūtīšana
+
+#re()[
+Sistēmai jānodrošina iespēja lietotājiem nosūtīt ziņas
+
+Ziņas nosūtīšanai ir nepieciešamas šādas funkcijas
+    - Izvēlēties cilvēku, kuram sūtit ziņu
+    - Ziņa tiek izsūtīta un saņemta
+    - Visai sistēmai eksistē viena čata sadaļa
+]
+
+=== Izvēlēties cilvēku, kuram sūtit ziņu
+
+#re()[
+Sistēmai jānodrošina:
+    - Meklēt visus sistēmas lietotājus un uzsākt sarunu ar tiem
+    - Ātra pieeja cilvēkiem, ar kuriem jau eksistē sarakste
+Sistēmai jānodrošina iespēja meklēt cilvēkus pēc to vārdiem un uzvārdiem
+]
+
+=== Lietotājam pieejamā informācija par ziņām
+
+#re()[
+Sistēmai jānodrošina iespēja šāda lietotājam redzēt infromācija par ziņām
+
+Par ziņām jāuzglabā šāda informācija:
+    - Informācija par abiem lietotājiem;
+    - Izsūtīšanas datums un laiks;
+    - Izsūtītājs;
+    - Ziņas teksts;
+    - Pielikumi.
+
+Sistēmai jānodrošina iespēja meklēt ziņas pēc to teksta
+]
+
+=== Sarakstu un ziņu apskatīšana
+
+#re()[
+Ir pieejama iespēja apskatīt un meklēt visas eksistējošās sarakstes ar lietotājiem, un sarakstēs ir iespējams meklēt konkrētas ziņas.
+]
+
+=== Atgādinājumu izsūtīšana pa e-pastu TODO: sasaistīt ar aktuālo termiņu prasībām
+
+#re()[
+Priekšnosacījumi:
+    - Lietotājs ir iestatījis, ka viņš saņem paziņojumus
+Sistēma automātiski izsūta e-pastus atbilstošajām personām par tuvojošiem datumiem, kuros ir atskaites nodošana, vai citi lieli notikumi. Informācija par datumiem tiek aprakstīta punktā 3.3.1.
+Pirms e-pasta izsūtīšanas lietvedei ir iespējams modificēt: 
+    - cik ilgu laiku pirms datuma tiks izsutīts e-pasts;
+    - e-pasta ziņojuma tekstu;
+    - adresātus.
+]
+
+== Atgriezeniskā saite
+
+=== Pieeja statusa izmaiņām
+
+#re()[
+Vadītāju piedāvātās bakalaura darba tēmas tiek publicētas studentiem saraksta formātā. Pieejama informācija par darba vadītāju, tēmu, mērķi, darba tipu, īsu aprakstu, kā arī statuss. 
+
+Statusa izmaiņu tēmas izvēlei var redzēt:
+    - students;
+    - darba vadītājs;
+    - lietvedis;
+    - programmas direktors.
+
+Katras tēmas statuss ir pieejams visiem lietotājiem.
+]
+
+=== Statusa izmaiņu administrēšana
+
+#re()[
+Statusa izmaiņas tēmai var mainīt:
+    - lietvedis;
+    - programmas direktors.
+    - darba vadītājs.
+
+Galvenais lietotājs, kas piešķir statusa maiņu, ir darba vadītājs, jo viņš izvēlas, ar kuriem studentiem strādāt. Darba vadītājs spēj mainīt tikai savas tēmas statusu. Lietvedis un programmas direktors - visiem. 
+
+Iespējamie statusi:
+    - Rezervēts;
+    - Aizņemts;
+    - Brīvs.
+
+Brīdi, kad kāds students piesakās tēmai un students vai darba vadītājs vēlas apspriest vairāk šo tēmu, tēmai tiek piešķirts statuss - rezervēts. Šis statuss saglabājas, līdz netiek apstiprināts tēmas iesniegums. Tad statuss ir - aizņemts. Ja students atsakās no šīs tēmas vai arī darba vadītājs nevēlas ar šo studentu strādāt, tēmas statuss pāriet atpakaļ uz “brīvs”.
+
+Darba vadītājs var izvēlēties manuāli apstiprināt, ka tēma ir aizņemta, arī pirms tēmas iesnieguma apstiprināšanas, piemēram, kad tiek formāli tiek sākts rakstīts iesniegums.
+]
+
+== Statusa izmaiņas bakalaura tēmas TODO: iesniegumam
+#re()[
+Studentam ir redzami visi viņa iesniegtie dokumenti, tajā skaitā tēmas iesniegums.
+
+Dokumenti redzami lietotāja profilā attiecīgajā sadaļā (piem., “Iesniegtie dokumenti”). 
+
+Students redz tikai savu iesniegumu.
+Darba vadītājs redz visus iesniegumus, kurus ir parakstījis. 
+Programmas direktors redz visus iesniegtos iesniegumus.
+
+Iesnieguma statusu var apskatīt brīdī, kad abpusēji (darba vadītājs, students) parakstīts iesniegums tiek nosūtīts programmas direktoram. Tajā brīdī iesniegumam tiek piešķirts statuss: gaida apstiprinājumu.
+
+Iesniegumu programmas direktoram var iesūtīt gan darba vadītājs, gan students. Iesūtīšana notiek caur sistēmas dokumentu iesniegšanas funkciju. Priekšnosacījums - dokumentam jābūt abpusēji parakstītam. 
+
+
+Statusa izmaiņu tēmas iesniegumam var redzēt:
+    - students;
+    - darba vadītājs;
+    - lietvedis;
+    - programmas direktors.
+]
+
+=== Statusa izmaiņu administrēšana
+
+#re()[
+Statusa izmaiņas iesniegumam var mainīt:
+    - lietvedis;
+    - programmas direktors.
+
+Iespējamie statusi:
+    - Gaida apstiprinājumu;
+    - Apstiprināts;
+    - Noraidīts.
+]
+
+=== Bakalaura darba (darba vai melnraksta) vērtēšana
+
+#re()[
+Vērtējums ir redzams pie konkrētā studenta iesniegtā darba. Studentam ir redzami tikai savi iesniegtie darbi, darba vadītājam, recenzentam un lietvedei - visu studentu. (varbūt darba vadītājam tikai savi studenti).
+
+Priekšnosacījumi:
+    - darbs ir iesniegts;
+    - darbs ir novērtēts.
+
+Bakalaura darba vērtējumam ir pieeja (apskatei):
+    - students;
+    - darba vadītājs;
+    - recenzents;
+    - lietvede.
+
+Visiem nosauktajiem lietotājiem arī ir redzama konkrētā persona, kas ir atstājusi komentāru. 
+]
+
+=== Pieeja bakalaura darbu vērtējumu izlikšanai
+
+#re()[
+Bakalaura darba vērtējumam ir pieeja (izlikšanai):
+    - darba vadītājs;
+    - recenzents.
+
+Vērtējumi tiek izlikti 10 baļļu skalā vai i/ni, ar iespēju pievienot komentārus.
+]
+
+=== Bakalaura darbu vērtējumu sistēma
+
+#re()[
+Iespēja atstāt vērtējumu ir redzama pie sistēmā iesniegtā darba. Lietotājam, kas vērtē darbu, ir iespēja atvērt skatu ar konkrētā darba visiem eksistējošajiem iesniegumiem (=studenti, kas iesnieguši uz to brīdi darbus), kur arī ir iespējams izvēlēties darbu, ko novērtēt. 
+
+Pie iesnieguma ir līdzīgi kā ORTUS - redzams students, viņa iesniegtais darbs, laiks un datums, kad tika iesniegts. Pieejama poga, kas sniedz iespēju novērtēt darbu.
+
+Lai atstātu vērtējumu, atveras logs, kur var izvēlēties:
+    - vērtēšanas sistēmu:
+        - i/ni;
+        - balles.
+    - vieta komentāra rakstīšanai. 
+
+Sistēma automātiski nosaka vērtējošās personas identitāti, kas tiek reģistrēts kā vērtējuma autors sistēmā. 
+]
+
+=== Pieeja iesniegto dokumentu komentāriem
+
+#re()[
+Priekšnosacījumi, lai varētu apskatīt komentāru:
+    - Darbs vai dokuments ir iesniegts;
+    - Ir pagājis pēdējais termiņš, kad var darbu/dokumentu iesniegt. (“Maigie” termiņi ir iespējami, bet nevajag par tiem runāt);
+    - Darbam ir ievadīts vērtējums (skatīt 2.2.3.)
+
+Iesniegtā dokumenta komentāru apskatei ir pieeja:
+    - students;
+    - darba vadītājs;
+    - recenzents.
+]
+
+=== Tiesības rakstīt komentārus par iesniegtajiem dokumentiem vai darbiem
+
+#re()[
+Atstāt komentārus par iesniegtajiem darbiem vai dokumentiem ir tiesības:
+    - darba vadītājs;
+    - recenzents.
+]
+
+=== Aktuālie termiņi <termini>
+
+#re()[
+Sistēmā ir informācija par aktuālajiem termiņiem:
+    - darbs, kas jāizpilda;
+    - termiņš.
+
+Katru termiņu var atvērt kā atsevišķu pop-up logu, kur ir:
+    - darbs, kas jāizpilda;
+    - prasījumi konkrētajam iesniegumam (piemēram, ka jābūt gataviem 75%);
+    - saite uz nepieciešamajiem resursiem, piemēram, šabloniem;
+    - saite uz iesniegšanu:
+        - studentiem saite, kur viņi var iesniegt;
+        - pārējiem lietotājiem - saite, kur var apskatīt visus iesniegtos darbus..
+]
+
+=== Pieeja aktuālo termiņu apskatei
+
+// #show ref: it => {
+//     if it.has("element") and it.element.func() == heading {
+//         let element = it.element
+//          "["
+//          element.supplement
+//          "-"
+//          numbering(element.numbering, ..counter(heading).at(element.location())) 
+//          "]"
+//     } else {
+//         [#it]
+//     }
+// }
+
+#re()[
+@termini aprakstītie termiņi studentam parādās kā tabula vai saraksts nodaļā, kur ir visi aktuālie termiņi. Savukārt sistēmā tie arī ir reģistrēti, tāpēc studenta profilā arī ir pieejams kalendārais skats, kur ir atzīmēti visi datumi, kuros kaut kas jāiesniedz.
+
+Apskatīt ar darbu saistītos termiņus ir iespējams kalendārā:
+    - visiem sistēmas lietotājiem.
+]
+
+=== Tiesības publicēt un mainīt aktuālos termiņus
+
+#re()[
+Tiesības veikt izmaiņas šajā sistēmā un izveidot to ir lietvedim. Lietvedis ievada sistēmā fakultātes/katedras noteiktos termiņus. Aizejot uz sadaļu “Aktuālie termiņi” ir redzama tabula/saraksts, kas ir redzama visiem, bet lietvedim ir iespēja to rediģēt un papildināt. 
+
+Sistēma automātiski no šajā sadaļā ievadītā termiņa nosaka datumu un laiku un atzīmē visu lietotāju kalendārā.
+]
+
+=== Resursi darba izstrādei	
+
+#re()[
+Atsevišķā sadaļā ir pieejamas saites uz ORTUS-ā nodrošinātajiem resursiem, kā veidlapas, vērtējumu kritērijiem, noformēšanas kārtība.
+
+Šīs saites tiek manuāli uzturētas, jo jebkādas izmaiņas ORTUS resursos tiek apstiprinātas ar vadību, tāpēc nevar būt negaidītu izmaiņu, par kurām lietvedis vai kāds cits no fakultātes darbiniekiem nezinātu. 
+]
+
+=== Pieeja aktuālo termiņu apskatei
+
+#re()[
+Apskatīt ar darbu saistītos resursus ir iespējams:
+    - studentam;
+    - darba vadītājam;
+    - lietvedei;
+    - recenzentiem;
+    - vadībai (programmas direktoram, dekānam, utt.)
+]
+
+=== Tiesības publicēt un mainīt aktuālos resursus
+
+#re()[
+Tiesības veikt izmaiņas šajā sistēmā un izveidot to ir lietvedim vai IT departamentam. 
+
+Sistēmai jābūt labi uzskatāmai un viegli rediģējamai, saglabājot funkcionalitāti.
+]
+
+== Lietotāju profili
+
+=== Profilu informācījas parādīšana
+
+#re()[
+Sistēmai jānodrošina iespēja lietotājiem redzēt savu un citu lietotāju profilus
+
+Lietotāja profila skatā jāparādās šādai lietotāja informācījai:
+    - Vārds;
+    - Uzvārds;
+    - E-pasts;
+    - Bilde;
+    - Universitātes kods;
+    - Struktūrvienības piederība - fakultāte > institūts > katedra;
+    - Personalizēts apraksts;
+]
+
+=== Profilu informācījas rediģēšana
+
+#re()[
+Sistēmai jānodrošina iespēja lietotājiem rediģēt savu profila informācīju.
+
+Lietotājiem, izņemot administratorus, citu lietotāju profilus nebūs iespējams rediģēt.
+]
+
+=== Nonākšana līdz lietotāja profila
+
+#re()[
+Sistēmai jānodrošina iespēja lietotājam nonākt līdz sava profila lapai no jebkura sistēmas skata.
+
+Kā arī, sistēmai jānodrošina iespēja lietotājam nonākt līdz citu lietotāju profiliem caur saziņas sistēmu.
+]
+
 #pagebreak()

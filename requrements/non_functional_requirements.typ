@@ -25,5 +25,19 @@
     - Sistēmai ir jābūt spējīgai vienā laikā ļaut lietot sistēmu līdz pat 1000 lietotājiem;
     - Sistēmai ir jābūt spējīgai reģistrēt līdz pat 1 000 000 lietotāju.
 
+Sistēmai jānodrošina iespēja vienlaicīgi izsūtīt e-pastu 5 000 personām, jo:
+RTU sistēmā ir reģistrēti ~14 000 studenti(https://www.rtu.lv/lv/universitate/skaitli-un-fakti/studejoso-skaits), taču tikai daļa no tiem nodod zinātnisko darbu konkrētā gadā, kas nozīmē, ka bakalaura darba nodevēju skaits nepārsniegs 10 000 (5000 \* 2)
+Tiesības veikt izmaiņas ar e-pastu saistītām funkcijām ir lietvedei.
+
+Sistēmai jānodrošina tūlītēja izliktā vērtējuma paziņojuma izsūtīšana (nevis pēc pāris dienām).
+Sistēmai jānodrošina, ka tikai paredzētajiem lietotājiem ir pieeja vērtējumiem un vērtējumu izlikšanas funkcijai (drošība).
+
+Sistēmā saites uz resursiem vienmēr strādā kā nepieciešams (piemēram, ved uz konkrēto resursa saiti), un tā tiek atjaunota līdz ar izmaiņām ORTUS mājaslapā.
+Tiesības veikt izmaiņas ar aktuālajiem resursiem saistīto informāciju ir lietvedei.
+Kā var automatizēt šo procesu??
+
+Sākotnējā informācīja par profilu tiek iestatīta automātiski no reģistrēšanas laikā dotās informācījas.
+Starp rediģēto izmaiņu saglabāšanu un vēlvienu pieprasījumu pēc iespējas rediģēt, jābūt 5 sekunžu pauzei.
+
 
 #pagebreak()
