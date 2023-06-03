@@ -10,3 +10,4 @@ requirements/dist/main.toc
 requirements/dist/main.aux
 requirements/dist/preamble.aux
 requirements/dist/*.fls
+requirements/*.pdf
