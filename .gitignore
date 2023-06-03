@@ -1,1 +1,10 @@
 .vscode
+__minted-main
+requirements/dist/sections/*
+requirements/dist/main.fdb_latexmk
+requirements/dist/main.fls
+requirements/dist/main.log
+requirements/dist/main.out
+requirements/dist/main.synctex.gz
+requirements/dist/main.toc
+requirements/dist/preamble.aux
