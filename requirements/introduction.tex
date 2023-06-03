@@ -2,45 +2,78 @@
 
 \subsection{Definīcijas un saīsinājumi}
 
-\begin{tabular}{ |c|wc{12cm}| }
+\begin{tabular}{ |c|wc{12.5cm}| }
     \hline
     \rowcolor{blue!30}
-    \textbf{Saīsinājums} & \textbf{Skaidrojums}             \\
+    \textbf{Saīsinājums} & \textbf{Skaidrojums}                \\
     \hline
-    RTU                  & Rīgas Tehniskā Universitāte      \\
+    RTU                  & Rīgas Tehniskā Universitāte         \\
     \hline
-    BDAS                 & Bakalaura darbu atbalsta sistēma \\
+    BDIAS                & Bakalaura darbu IT atbalsta sistēma \\
     \hline
 \end{tabular}
 
 \subsection{Dokumenta nolūks}
 
-Šis dokuments apraksta studiju projekta studentu zināšanas vērtēšanas sistēmu kursam "Risinājumu
-algoritmizācija un programmēšana" (tālāk tekstā Scoring) programmatūras prasības.
+Šis dokuments apraksta studiju priekšmeta "Datorsistēmu projektēšanas pamati" studija projekta "Bakalaura darbu IT atbalsta sistēma" (tālāk tekstā BDIAS) programmatūras prasības.
 
-Dokuments ir paredzēts studiju projekta ietvaros izstrādātās programmatūras izstrādē, ieviešanā un
-uzturēšanā iesaistītajām pusēm:
+Dokuments ir paredzēts studiju projekta ietvaros programmatūras dizaina prototipa izstrādē, programmatūras ieviešanā un uzturēšanā iesaistītajām pusēm:
 
 \begin{itemize}[noitemsep, nolistsep]
-    \item pasūtītāja (RTU) pasniedzēji, kuri atbildīgi par projekta nodevumu pieņemšanu un izvērtēšanu
-    \item izstrādātāja tehniskie speciālisti, kuri atbildīgi par tā realizāciju – projektēšanu un implementēšanu.
+    \item pasūtītāja (RTU) mācībspēki, kuri atbildīgi par projekta nodevumu pieņemšanu un izvērtēšanu;
+    \item izstrādātāja tehniskie speciālisti, kuri atbildīgi par tā realizāciju – projektēšanu un implementēšanu;
+    \item studiju projekta dizaina prototipa izstrādātajiem.
 \end{itemize}
 
 \subsection{Darbības sfēra}
 
-Studiju projekta ietvaros tiek izstrādāta sistēma, kas ļaus RTU pasniedzējiem izveidot pārbaudes
-testus un definēt to vērtēšanas kritērijus un studentiem veikt šo testu izpildi.
-
-Šis dokuments apraksta programmatūru, kas ļaus:
+Studiju projekta ietvaros tiek izstrādāts sistēmas dizaina prototips, kas ļaus demonstrēt sistēmu, kur RTU studenti var:
 
 \begin{itemize}[noitemsep, nolistsep]
-    \item Uzglabāt informāciju par sistēmas lietotājiem;
-    \item Veidot testus un uzglabāt atbildes uz tiem un to rezultātus;
-    \item Testiem piešķirt variantu un uzdot studentam nejauši izvēlētus variantus izpildei;
-    \item Ierobežot testu izpildes reizes un laikus;
-    \item Importēt lietotāju datus no XLSX formāta dokumentiem;
-    \item Eksportēt studentu sekmes XLSX formāta dokumentā;
-    \item Izsūtīt lietotāja vārdu un paroli uz tam definēto e-pasta adresi.
+    \item Saņemt informāciju par bakalaura darba izstrādi;
+    \item Izvēlēties katedru, kur notiks bakalaura darba rakstīšana;
+    \item Izvēlēties bakalaura darba tēmu no piedāvātā saraksta;
+    \item Piedāvāt savu bakalaura darba tēmu;
+    \item Saņemt paziņojumus par nepieciešamām bakalaura darba aktivitātēm;
+    \item Augšupielādēt iesniegumus un bakalaura darbu uz pārbaudi;
+    \item Saņemt atzīmes un komentārus par bakalaura darba izstrādes rezultātiem;
+    \item Izmantot tērzētāvas funkcijas.
+\end{itemize}
+
+RTU bakalaura darba vadītāji, izmantojot BDIAS sistēmu, var:
+
+\begin{itemize}[noitemsep, nolistsep]
+    \item Augšupielādēt, pievienot un rediģēt bakalaura tēmas;
+    \item Saņemt paziņojumus par nepieciešamām bakalaura darba aktivitātēm;
+    \item Saņemt iesniegumus un bakalaura darbus uz pārbaudi;
+    \item Likt atzīmes un rakstīt komentārus par bakalaura darba izstrādes rezultātiem;
+    \item Izmantot tērzētāvas funkcijas.
+\end{itemize}
+
+RTU lietvedes, izmantojot BDIAS sistēmu, var:
+
+\begin{itemize}[noitemsep, nolistsep]
+    \item Saņemt iesniegumus no studentiem;
+    \item Saņemt paziņojumus par saņemtajiem iesniegumiem;
+    \item Veikt izmaiņas BDIAS sistēmā;
+    \item Izmantot tērzētāvas funkcijas.
+\end{itemize}
+
+RTU programmas direktors, izmantojot BDIAS sistēmu, var:
+
+\begin{itemize}[noitemsep, nolistsep]
+    \item Apstiprināt iesniegumus no studentiem;
+    \item Saņemt paziņojumus no sistēmas;
+    \item Veikt izmaiņas BDIAS sistēmā;
+    \item Izmantot tērzētāvas funkcijas.
+\end{itemize}
+
+RTU komisijas dalībnieki, izmantojot BDIAS sistēmu, var:
+
+\begin{itemize}[noitemsep, nolistsep]
+    \item Saņemt paziņojumus par aktivitātēm;
+    \item Saņemt aizstāvēšanas datus;
+    \item Izmantot tērzētāvas funkcijas.
 \end{itemize}
 
 \subsection{Dokumenta pārskats}
@@ -48,12 +81,10 @@ testus un definēt to vērtēšanas kritērijus un studentiem veikt šo testu iz
 Dokumentu veido četri nodalījumi:
 
 \begin{itemize}[noitemsep, nolistsep]
-    \item Pirmajā nodalījumā – Ievads, iekļauta informācija par dokumenta vispārējo struktūru,
-          nolūku un izmantotajām definīcijām;
-    \item Otrajā nodalījumā – Risinājuma procesa apraksts, ir aprakstīti galvenie procesa soļi;
-    \item Trešajā nodalījumā – Konkrētās prasības, aprakstītas visas risinājuma prasības, kas attiecas
-          uz šo programmatūru;
-    \item Ceturtajā nodalījumā – Risinājuma vispārējie ierobežojumi
+    \item Pirmajā nodalījumā – Ievads, iekļauta informācija par dokumenta vispārējo struktūru, nolūku un izmantotajām definīcijām;
+    \item Otrajā nodalījumā – Risinājuma procesa apraksts, ir aprakstīti galvenie sistēmas procesa soļi;
+    \item Trešajā nodalījumā – Funkcionālās prasības, aprakstītas visas risinājuma prasības, kas attiecas uz BDIAS;
+    \item Ceturtajā nodalījumā – Nefunkcionālās prasības, aprakstītas visas risinājuma prasības, kas attiecas uz BDIAS.
 \end{itemize}
 
 \newpage
