@@ -9,6 +9,9 @@
 )
 #set text(spacing: 200%)
 #set heading(numbering: "1.")
+// padding for the list items
+#show list: pad.with(left: 2em)
+#show enum: pad.with(left: 2em)
 
 
 #include "title.typ"

@@ -17,6 +17,6 @@
         align: left,
         cellx(fill: bluec)[*Identifikators*], [#bdias()],
         cellx(colspan: 2, fill: bluec)[*Apraksts*], (),
-        colspanx(2)[content], ()
+        colspanx(2)[#content], ()
     )
 }

@@ -1,7 +1,5 @@
 #import "tablex.typ": tablex, cellx, colspanx
 #import "utils.typ": bluec
-// padding for the list items
-#show list: pad.with(left: 2em)
 
 = Ievads
 
