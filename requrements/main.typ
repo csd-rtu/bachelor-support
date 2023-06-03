@@ -46,3 +46,7 @@
 #include "process.typ"
 
 #include "functional_requirements.typ"
+
+#include "non_functional_requirements.typ"
+
+#include "constraints.typ"
