@@ -1,4 +1,6 @@
 \documentclass[a4paper, 12pt]{article}
+\usepackage[table]{xcolor}
+\usepackage{hyphenat}
 \usepackage[OT1]{fontenc}
 \usepackage[outputdir=dist, cache=false]{minted}
 \usepackage[left=2.54cm, right=2.54cm, bottom=2.54cm, top=2.54cm]{geometry}
@@ -9,7 +11,6 @@
 \usepackage[utf8]{inputenc}
 \usepackage{pdfpages}
 \usepackage{microtype}
-\usepackage{xcolor}
 \usepackage{setspace}
 \usepackage{fontspec}
 \usepackage{fancyhdr}
@@ -20,6 +21,7 @@
 \usepackage{caption} % Use to change captions
 \usepackage{polyglossia} % instead of babel
 \usepackage{lastpage}
+\usepackage{parskip}
 \graphicspath{ {./images/} }
 
 % Set styling for captions
@@ -34,7 +36,7 @@
 \input{title.tex}
 \input{toc.tex}
 \input{introduction.tex}
-\input{sections/first-part.tex}
-\input{sections/results.tex}
+\input{sections/process.tex}
+\input{sections/functional-requirements.tex}
 
 \end{document}

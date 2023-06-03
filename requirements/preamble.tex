@@ -22,6 +22,8 @@
 
 % Set main language as Latvian for this document
 \setmainlanguage{latvian}
+\setdefaultlanguage{latvian}
+\setotherlanguages{english}
 
 % Add dots to the title numbers
 \titlelabel{\thetitle.\quad}
@@ -83,7 +85,7 @@
 
 % Create a new macro for figure references
 % https://tex.stackexchange.com/questions/381532/custom-reference-types-e-g-freffigure-1-renders-fig-1
-\newcommand{\fref}[1]{\ref{#1}.att.}
+\newcommand{\fref}[1]{Attēls \ref{#1}.}
 
 % Create a new macro for table references
 \newcommand{\tref}[1]{\ref{#1}.tabula}
@@ -96,3 +98,5 @@
 \setmonofont{Arial Narrow}
 
 % \renewcommand{\footrulewidth}{0pt}
+% Turn off indentation
+\setlength{\parindent}{0cm}
