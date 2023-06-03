@@ -39,5 +39,24 @@ Kā var automatizēt šo procesu??
 Sākotnējā informācīja par profilu tiek iestatīta automātiski no reģistrēšanas laikā dotās informācījas.
 Starp rediģēto izmaiņu saglabāšanu un vēlvienu pieprasījumu pēc iespējas rediģēt, jābūt 5 sekunžu pauzei.
 
+=== Lietojumprogrammatūru jānodrošina ar atbilstošu drošību, lai nodrošinātu konfidencialitāti un novērstu neautorizētu piekļuvi darba datiem
+
+Tikai reģistrētiem lietotājiem ir piekļūve sistēmai. Reģistrēt jaunus lietotājus var tikai lietotāji no RTU IT atbalsta centra. Studenti un pāsniedzēji tiks automatiski reģistrēti ar profiliem no ORTUS. Un lietotāju tiesības ir ierobežotas, piemēram, lietotājiem ar lomu “Students” nav iespējas apskatīt citu studentu darbus.
+
+=== Lietojumprogrammatūrai ir jābūt saderīgai ar atbilstošo programmatūru un aparatūru ierobežojumiem
+
+Lietojumprogrammatūras jāspēj strādāt kopā ar operētājsistēmu un citām instalētām programmām, kas mijiedarbojās. Tas nozīmē, ka tai jābūt izstrādātai atbilstoši noteiktām programmēšanas valodām, bibliotēkām un citām tehnoloģijām, kuras tiek izmantotas mērķa ierīcē. Lietojumprogrammatūras darbībai ir jāatbilst ierīces aparatūras resursiem, piemēram, procesoram, atmiņai, videokartei un citiem komponentiem. 
+
+=== Lietojumprogrammatūrai jābūt spējīgai darboties ilgstoši bez pārtraukumiem un kļūmēm
+
+Lietojumprogrammatūra  darbosies korekti un nodrošinās patīkamu lietošanas pieredzi dažādās ierīcēs un sistēmās bez pārtraukumiem.
+
+=== Datu integritāte - nodrošināt, ka saglabātā informācija ir konsistenta
+
+Datu integritāte nodrošina, ka dati tiek uzturēti pareizi un nav bojāti, zaudēti vai nepamatoti mainīti. 
+
+=== Lietojumprogrammatūras grafiskais dizains ir pastāvīgs
+
+Visas lietojumprogrammatūras grafiskais dizains ir noformēts vienā stilā.
 
 #pagebreak()

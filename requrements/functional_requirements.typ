@@ -627,4 +627,25 @@ Sistēmai jānodrošina iespēja lietotājam nonākt līdz sava profila lapai no
 Kā arī, sistēmai jānodrošina iespēja lietotājam nonākt līdz citu lietotāju profiliem caur saziņas sistēmu.
 ]
 
+=== Lietvedībai jābūt iespējai izveidot bakalaura darba vērtēšanas komisiju kopa ar recenzentiem un nosutit šo sarakstu prog. direktoram 
+
+#re()[
+Bakalaura darba vērtēšanas komisiju var izveidot un apstiprināt tikai lietotāji ar lomu “Lietvedības darbinieks”.
+]
+
+=== Apskatīt iesniegto dokumentu statusu (t.i., apstiprināts/ieskaitīts, utt) (kuram ir iespejas apskatit statusu un kuram ir iespeja rediget)
+
+#re()[
+Lietotājiem ar lomām “Darba vadītājs” un  “Lietvedības darbinieks” ir iespēja apskatīt iesniegtus dokumentus un mainīt iesniegto dokumentu statusu uz apstiprināts/ieskaitīts, utt. Šīs statuss būs redzams gan lietotājiem ar lomām “Darba vadītājs” un  “Lietvedības darbinieks”, gan lietotājiem ar lomu “Students”.
+]
+
+=== Kalendārais plāns ar bakalaura darba iesniegšanas un [priekš]aiztavēšanas datumiem (atgadinajumi)
+
+#re()[
+Lietotājiem ar lomām “Darba vadītājs”, “Lietvedības darbinieks” un “Students” ir redzams kalendārs, kurā ir atzīmēti svarīgie datumi:
+    - bakalaura darba iesniegšanas datums;
+    - priekšaizstavēšanas datums;
+    - aizstavēšanas datums.
+]
+
 #pagebreak()
