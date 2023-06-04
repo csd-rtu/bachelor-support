@@ -58,7 +58,7 @@ Rezultāts:
 - Nomainās teksts uz “Iesnieguma statuss: Ir iesniegts” iekš “Bakalaura darba tēmas iesniegšana” sadaļas.
 ]
 
-#v(30%)
+#pagebreak()
 
 === Studentam ir iespēja augšupielādēt bakalaura darba atskaiti
 #re()[
@@ -97,6 +97,7 @@ Rezultāts:
 - Nomainās teksts uz “Atskaites statuss: Ir iesniegta” iekš “Bakalaura darba atskaites iesniegšana” sadaļas.
 ]
 
+#pagebreak()
 === Studentam ir iespēja augšupielādēt bakalaura darbu
 #re()[
 BDIAS nodrošina lietotāju grupai “Students” iespēju augšupielādēt .pdf formāta failu BDIAS sadaļā “Bakalaura darba iesniegšana”.
@@ -133,6 +134,7 @@ Rezultāts:
 - Nomainās teksts uz “Bakalaura darba statuss: Ir iesniegts” iekš “Bakalaura darba iesniegšana” sadaļas.
 ]
 
+#pagebreak()
 #set text(size: 12pt)
 == Lejupielādēt saturu
 
@@ -154,6 +156,8 @@ Rezultāts:
 - BD tēmas iesnieguma veidlapas fails ir saglabāts uz studenta cietā diska diskdziņa.
 ]
 
+#pagebreak()
+
 === Darba vadītājam ir iespēja lejupielādēt studenta parakstītu iesniegumu
 
 #re()[
@@ -169,6 +173,8 @@ Darbība:
 Rezultāts:
 - Studenta parakstīts iesniegums ir veiksmīgi lejupielādēts 
 ]
+
+#pagebreak()
 
 == Rediģēt saturu
 
@@ -187,6 +193,8 @@ Rezultāts:
 - Sistēma izvada paziņojumu, ka iesniegums veiksmīgi saglabāts
 - Sistēma informē BD vadītāju un studentu, ja tiek atstāts komentārs no programmas direktora
 ]
+
+#pagebreak()
 
 == Pievienot saturu
 
@@ -211,6 +219,8 @@ Rezultāts:
     Ja nav, tad
     - Sistēma izvada paziņojumu Nav brīvas vietas pie izvēlētā BD vadītāja
 ]
+
+#pagebreak()
 
 === Darba vadītājam izvērtējot iesniegumu, iespēja sistēmā atzīmēt, vai iesniegums ir apstiprināts/noraidīts
 #re()[
@@ -265,6 +275,7 @@ Rezultāts:
     - Apskatot bakalaura darba tēmu sarakstu, izvēlētā tēma atrodas statusā “apstiprināts”
 ]
 
+#pagebreak()
 === Iesnieguma procesa statuss “noraidīts”
 
 #re()[
@@ -290,6 +301,8 @@ Rezultāts:
     - Sistēma neatļauj izvelēties priekšnosacījumos aprakstītu BD tēmu
     - Sistēma blakus aizņemtai BD tēmai norāda to, ka tēma ir jau aizņemta
 ]
+
+#pagebreak()
 
 === Sistēma parāda, ka tēma ir rezervēta
 
@@ -360,6 +373,7 @@ Pirms e-pasta izsūtīšanas lietvedei ir iespējams modificēt:
     - adresātus.
 ]
 
+#pagebreak()
 == Atgriezeniskā saite
 
 === Pieeja statusa izmaiņām
@@ -376,6 +390,7 @@ Statusa izmaiņu tēmas izvēlei var redzēt:
 Katras tēmas statuss ir pieejams visiem lietotājiem.
 ]
 
+#pagebreak()
 === Statusa izmaiņu administrēšana
 
 #re()[
@@ -396,7 +411,8 @@ Brīdi, kad kāds students piesakās tēmai un students vai darba vadītājs vē
 Darba vadītājs var izvēlēties manuāli apstiprināt, ka tēma ir aizņemta, arī pirms tēmas iesnieguma apstiprināšanas, piemēram, kad tiek formāli tiek sākts rakstīts iesniegums.
 ]
 
-== Statusa izmaiņas bakalaura tēmas
+#pagebreak()
+== Statusa izmaiņas bakalaura darba tēmai
 #re()[
 Studentam ir redzami visi viņa iesniegtie dokumenti, tajā skaitā tēmas iesniegums.
 
@@ -427,6 +443,7 @@ Iespējamie statusi:
     - Noraidīts.
 ]
 
+#pagebreak()
 === Bakalaura darba (darba vai melnraksta) vērtēšana
 
 #re()[
@@ -455,6 +472,7 @@ Bakalaura darba vērtējumam ir pieeja (izlikšanai):
 Vērtējumi tiek izlikti 10 baļļu skalā vai i/ni, ar iespēju pievienot komentārus.
 ]
 
+#pagebreak()
 === Bakalaura darbu vērtējumu sistēma
 
 #re()[
@@ -485,6 +503,7 @@ Iesniegtā dokumenta komentāru apskatei ir pieeja:
     - recenzents.
 ]
 
+#pagebreak()
 === Tiesības rakstīt komentārus par iesniegtajiem dokumentiem vai darbiem
 
 #re()[
@@ -518,6 +537,7 @@ Apskatīt ar darbu saistītos termiņus ir iespējams kalendārā:
     - visiem sistēmas lietotājiem.
 ]
 
+#pagebreak()
 === Tiesības publicēt un mainīt aktuālos termiņus
 
 #re()[
@@ -545,6 +565,7 @@ Apskatīt ar darbu saistītos resursus ir iespējams:
     - vadībai (programmas direktoram, dekānam, utt.)
 ]
 
+#pagebreak()
 === Tiesības publicēt un mainīt aktuālos resursus
 
 #re()[
@@ -577,6 +598,8 @@ Sistēmai jānodrošina iespēja lietotājiem rediģēt savu profila informācij
 
 Lietotājiem, izņemot administratorus, citu lietotāju profilus nebūs iespējams rediģēt.
 ]
+
+#pagebreak()
 
 === Nonākšana līdz lietotāja profila
 
