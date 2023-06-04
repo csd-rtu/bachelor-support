@@ -1,6 +1,6 @@
 #import "utils.typ": re
 
-#set text(size: 10pt)
+#set text(size: 12pt)
 
 = Sistēmas funkcionālās prasības
 
@@ -10,6 +10,7 @@
 
 === Sistēmai var piekļūt noteiktas lietotāju grupas
 #re()[
+Pirms sistēmas izmantošanas lietotājam ir jāautorizējās BDIAS sistēmā.
 BDIAS ir piekļuve šādām lietotāju grupām:
 - Students;
 - Darba vadītājs;
@@ -20,6 +21,9 @@ BDIAS ir piekļuve šādām lietotāju grupām:
 - Dekāns.
 ]
 
+#set text(size: 10pt)
+#v(65%)
+
 == Augšupielādēt saturu
 
 === Studentam ir iespēja augšupielādēt aizpildītu tēmas iesniegumu
@@ -27,14 +31,11 @@ BDIAS ir piekļuve šādām lietotāju grupām:
 BDIAS nodrošina lietotāju grupai “Students” iespēju augšupielādēt .pdf formāta failu BDIAS sadaļā “Bakalaura darba tēmas iesniegšana”.
 
 Priekšnosacījumi:
-- Studentam ir izveidots konts BDIAS (lietotājvārds un parole);
-- Students ir autorizējies BDIAS;
 - Augšupielāde iekļaujas RTU definētajos termiņos (turpmāk - XX.XX.XXXX.) par BD tēmas iesniegšanu;
 - Fails, ko students vēlas augšupielādēt, atbilst .pdf formātam.
 Darbība:
-+ Students no BDAS sākumlapas novirzas uz BDAS sadaļu “Bakalaura darba tēmas”;
 + Students nospiež pogu “Pieteikt bakalaura darba tēmu”;
-+ Students redz BDAS sadaļas “Bakalaura darba tēmas iesniegšana” grafisko izklājumu ar šādu saturu:
++ Students redz BDIAS sadaļas “Bakalaura darba tēmas iesniegšana” grafisko izklājumu ar šādu saturu:
     - Teksts: “Lai iesniegtu bakalaura darba tēmas iesniegumu, nospiediet “Pievienot iesniegumu”. Lai atgrieztos sadaļā “Bakalaura darba tēmas”, nospiediet “Atpakaļ”.  Lūdzu iesniedziet tikai .pdf formāta failus. Iesniegumi pēc XX.XX.XXXX. netiek pieņemti.”;
     - Teksts: “Iesnieguma statuss: Nav iesniegts”;
     - Poga: “Pievienot iesniegumu”;
@@ -51,26 +52,28 @@ Darbība:
 + Students nospiež pogu “Iesniegt”.
 
 Rezultāts:
-- Studenta BD tēmas iesniegums ir augšupielādēts BDAS un saglabāts BDAS datu struktūrā;
+- Studenta BD tēmas iesniegums ir augšupielādēts BDIAS un saglabāts BDIAS datu struktūrā;
 - Atveras jauns uznirstošais logs ar šādu saturu:
     - Teksts: “Bakalaura darba tēmas iesniegums ir veiksmīgi iesniegts!”;
     - Poga: “Sapratu”;
 - Nomainas teksts uz “Iesnieguma statuss: Ir iesniegts” iekš “Bakalaura darba tēmas iesniegšana” sadaļas.
 ]
 
+#v(30%)
+
 === Studentam ir iespēja augšupielādēt bakalaura darba atskaiti
 #re()[
-BDAS nodrošina lietotāju grupai “Students” iespēju augšupielādēt .pdf vai .docx formāta failu BDAS sadaļā “Bakalaura darba atskaites iesniegšana”.
+BDIAS nodrošina lietotāju grupai “Students” iespēju augšupielādēt .pdf vai .docx formāta failu BDIAS sadaļā “Bakalaura darba atskaites iesniegšana”.
 
 Priekšnosacījumi:
-- Studentam ir izveidots konts BDAS (lietotājvārds un parole);
-- Students ir autorizējies BDAS;
+- Studentam ir izveidots konts BDIAS (lietotājvārds un parole);
+- Students ir autorizējies BDIAS;
 - Augšupielāde iekļaujas RTU definētajos termiņos (turpmāk - XX.XX.XXXX.) par BD atskaišu iesniegšanu;
 - Fails, ko students vēlas augšupielādēt, atbilst .pdf vai .docx formātam.
 Darbība:
-+ Students no BDAS sākumlapas novirzas uz BDAS sadaļu “Bakalaura darba progress”;
++ Students no BDIAS sākumlapas novirzas uz BDIAS sadaļu “Bakalaura darba progress”;
 + Students nospiež pogu “Iesniegt bakalaura darba atskaiti”;
-+ Students redz BDAS sadaļas “Bakalaura darba atskaites iesniegšana” grafisko izklājumu ar šādu saturu:
++ Students redz BDIAS sadaļas “Bakalaura darba atskaites iesniegšana” grafisko izklājumu ar šādu saturu:
     - Teksts: “Lai iesniegtu bakalaura darba atskaiti, nospiediet “Pievienot atskaiti”. Lai atgrieztos sadaļā “Bakalaura darba progress”, nospiediet “Atpakaļ”.  Pirms atskaites iesniegšanas, izvēlieties atskaites tipu no nolaižamās izvēlnes “Atskaites tips”!  Lūdzu iesniedziet tikai .pdf vai .docx formāta failus. Atskaites pēc XX.XX.XXXX. netiek pieņemtas.”;
     - Nolaižamā izvēlne: “Atskaites tips” ar vērtībām “Rudens (25%)”; ”Progresa (50%)”; ”Priekšaizstāvēšana (75%)”;
     - Teksts: “Atskaites statuss: Nav iesniegta”;
@@ -88,7 +91,7 @@ Darbība:
     - Poga: “Atcelt”;
 + Students nospiež pogu “Iesniegt”.
 Rezultāts:
-- Studenta BD atskaite ir augšupielādēta BDAS un saglabāta BDAS datu struktūrā;
+- Studenta BD atskaite ir augšupielādēta BDIAS un saglabāta BDIAS datu struktūrā;
 - Atveras jauns uznirstošais logs ar šādu saturu:
 - Teksts: “Bakalaura darba atskaite ir veiksmīgi iesniegta!”;
 - Poga: “Sapratu”;
@@ -97,17 +100,17 @@ Rezultāts:
 
 === Studentam ir iespēja augšupielādēt bakalaura darbu
 #re()[
-BDAS nodrošina lietotāju grupai “Students” iespēju augšupielādēt .pdf formāta failu BDAS sadaļā “Bakalaura darba iesniegšana”.
+BDIAS nodrošina lietotāju grupai “Students” iespēju augšupielādēt .pdf formāta failu BDIAS sadaļā “Bakalaura darba iesniegšana”.
 
 Priekšnosacījumi:
-- Studentam ir izveidots konts BDAS (lietotājvārds un parole);
-- Students ir autorizējies BDAS;
+- Studentam ir izveidots konts BDIAS (lietotājvārds un parole);
+- Students ir autorizējies BDIAS;
 - Augšupielāde iekļaujas RTU definētajos termiņos (turpmāk - XX.XX.XXXX.) par BD iesniegšanu;
 - Fails, ko students vēlas augšupielādēt, atbilst .pdf formātam.
 Darbība:
-+ Students no BDAS sākumlapas novirzas uz BDAS sadaļu “Noslēguma darba iesniegšana”;
++ Students no BDIAS sākumlapas novirzas uz BDIAS sadaļu “Noslēguma darba iesniegšana”;
 + Students nospiež pogu “Iesniegt bakalaura darbu”;
-+ Students redz BDAS sadaļas “Bakalaura darba iesniegšana” grafisko izklājumu ar šādu saturu:
++ Students redz BDIAS sadaļas “Bakalaura darba iesniegšana” grafisko izklājumu ar šādu saturu:
     - Teksts: “Lai iesniegtu bakalaura darbu, nospiediet “Pievienot bakalaura darbu”. Lai atgrieztos sadaļā “Noslēguma darba iesniegšana”, nospiediet “Atpakaļ”. 
     - Lūdzu iesniedziet tikai .pdf formāta failus. Iesniegumi pēc XX.XX.XXXX. netiek pieņemti.”;
     - Teksts: “Bakalaura darba statuss: Nav iesniegts”;
@@ -124,27 +127,28 @@ Darbība:
     -   Poga: “Atcelt”;
 +   Students nospiež pogu “Iesniegt”.
 Rezultāts:
-- Studenta BD ir augšupielādēts BDAS un saglabāts BDAS datu struktūrā;
+- Studenta BD ir augšupielādēts BDIAS un saglabāts BDIAS datu struktūrā;
 - Atveras jauns uznirstošais logs ar šādu saturu:
     - Teksts: “Bakalaura darbs ir veiksmīgi iesniegts!”;
     - Poga: “Sapratu”;
 - Nomainas teksts uz “Bakalaura darba statuss: Ir iesniegts” iekš “Bakalaura darba iesniegšana” sadaļas.
 ]
 
+#set text(size: 12pt)
 == Lejupielādēt saturu
 
 === Studentam ir iespēja lejupielādēt tēmas iesnieguma veidlapu
 
 #re()[
-BDAS nodrošina lietotāju grupai “Students” iespēju lejupielādēt BD tēmas iesnieguma veidlapas .docx formāta failu no BDAS sadaļas “Bakalaura darba tēmas”.
+BDIAS nodrošina lietotāju grupai “Students” iespēju lejupielādēt BD tēmas iesnieguma veidlapas .docx formāta failu no BDIAS sadaļas “Bakalaura darba tēmas”.
 
 Priekšnosacījumi:
-- Studentam ir izveidots konts BDAS (lietotājvārds un parole);
-- Students ir autorizējies BDAS;
-- Lietvedība ir BDAS augšupielādējusi BD tēmas iesnieguma veidlapas failu;
+- Studentam ir izveidots konts BDIAS (lietotājvārds un parole);
+- Students ir autorizējies BDIAS;
+- Lietvedība ir BDIAS augšupielādējusi BD tēmas iesnieguma veidlapas failu;
 - BD tēmas iesnieguma veidlapas fails ir .docx formāta.
 Darbība:
-+ Students no BDAS sākumlapas novirzas uz BDAS sadaļu “Bakalaura darba tēmas”;
++ Students no BDIAS sākumlapas novirzas uz BDIAS sadaļu “Bakalaura darba tēmas”;
 + Students nospiež pogu “Lejupielādēt”, kas atrodas labajā pusē no teksta “Bakalaura darba tēmas iesnieguma veidlapa”;
 + Tiek atvērts failu pārvaldnieks;
 + Students izvēlas ceļu BD tēmas iesnieguma veidlapas failam uz cietā diska diskdziņa;
@@ -539,19 +543,6 @@ Katru termiņu var atvērt kā atsevišķu pop-up logu, kur ir:
 
 === Pieeja aktuālo termiņu apskatei
 
-// #show ref: it => {
-//     if it.has("element") and it.element.func() == heading {
-//         let element = it.element
-//          "["
-//          element.supplement
-//          "-"
-//          numbering(element.numbering, ..counter(heading).at(element.location())) 
-//          "]"
-//     } else {
-//         [#it]
-//     }
-// }
-
 #re()[
 @termini aprakstītie termiņi studentam parādās kā tabula vai saraksts nodaļā, kur ir visi aktuālie termiņi. Savukārt sistēmā tie arī ir reģistrēti, tāpēc studenta profilā arī ir pieejams kalendārais skats, kur ir atzīmēti visi datumi, kuros kaut kas jāiesniedz.
 
@@ -599,7 +590,7 @@ Sistēmai jābūt labi uzskatāmai un viegli rediģējamai, saglabājot funkcion
 === Profilu informācījas parādīšana
 
 #re()[
-Sistēmai jānodrošina iespēja lietotājiem redzēt savu un citu lietotāju profilus
+Sistēmai jānodrošina iespēja lietotājiem redzēt savu un citu lietotāju profilus.
 
 Lietotāja profila skatā jāparādās šādai lietotāja informācījai:
     - Vārds;

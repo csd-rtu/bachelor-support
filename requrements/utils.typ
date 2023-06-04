@@ -11,7 +11,7 @@
 // Creates a requirement table
 #let re(content) = {
     tablex(
-        columns: (3cm, 12.5cm),
+        columns: (3.5cm, 12.5cm),
         rows: auto,
         inset: 10pt,
         align: left,
