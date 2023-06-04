@@ -6,15 +6,14 @@
 
 #v(12pt)
 
-== Pieeja saturam
+== Pieeja saturam <ch>
 
 === Sistēmai var piekļūt noteiktas lietotāju grupas
 #re()[
-Pirms sistēmas izmantošanas lietotājam ir jāautorizējās BDIAS sistēmā.
+Pirms sistēmas izmantošanas lietotājam ir jāautorizējas BDIAS sistēmā.
 BDIAS ir piekļuve šādām lietotāju grupām:
 - Students;
 - Darba vadītājs;
-- Bakalaura darba konsultants;
 - Lietvede;
 - Studiju programmas komisija;
 - Programmas direktors;
@@ -56,7 +55,7 @@ Rezultāts:
 - Atveras jauns uznirstošais logs ar šādu saturu:
     - Teksts: “Bakalaura darba tēmas iesniegums ir veiksmīgi iesniegts!”;
     - Poga: “Sapratu”;
-- Nomainas teksts uz “Iesnieguma statuss: Ir iesniegts” iekš “Bakalaura darba tēmas iesniegšana” sadaļas.
+- Nomainās teksts uz “Iesnieguma statuss: Ir iesniegts” iekš “Bakalaura darba tēmas iesniegšana” sadaļas.
 ]
 
 #v(30%)
@@ -71,7 +70,7 @@ Priekšnosacījumi:
 - Augšupielāde iekļaujas RTU definētajos termiņos (turpmāk - XX.XX.XXXX.) par BD atskaišu iesniegšanu;
 - Fails, ko students vēlas augšupielādēt, atbilst .pdf vai .docx formātam.
 Darbība:
-+ Students no BDIAS sākumlapas novirzas uz BDIAS sadaļu “Bakalaura darba progress”;
++ Students no BDIAS sākumlapas novirzās uz BDIAS sadaļu “Bakalaura darba progress”;
 + Students nospiež pogu “Iesniegt bakalaura darba atskaiti”;
 + Students redz BDIAS sadaļas “Bakalaura darba atskaites iesniegšana” grafisko izklājumu ar šādu saturu:
     - Teksts: “Lai iesniegtu bakalaura darba atskaiti, nospiediet “Pievienot atskaiti”. Lai atgrieztos sadaļā “Bakalaura darba progress”, nospiediet “Atpakaļ”.  Pirms atskaites iesniegšanas, izvēlieties atskaites tipu no nolaižamās izvēlnes “Atskaites tips”!  Lūdzu iesniedziet tikai .pdf vai .docx formāta failus. Atskaites pēc XX.XX.XXXX. netiek pieņemtas.”;
@@ -95,7 +94,7 @@ Rezultāts:
 - Atveras jauns uznirstošais logs ar šādu saturu:
 - Teksts: “Bakalaura darba atskaite ir veiksmīgi iesniegta!”;
 - Poga: “Sapratu”;
-- Nomainas teksts uz “Atskaites statuss: Ir iesniegta” iekš “Bakalaura darba atskaites iesniegšana” sadaļas.
+- Nomainās teksts uz “Atskaites statuss: Ir iesniegta” iekš “Bakalaura darba atskaites iesniegšana” sadaļas.
 ]
 
 === Studentam ir iespēja augšupielādēt bakalaura darbu
@@ -108,7 +107,7 @@ Priekšnosacījumi:
 - Augšupielāde iekļaujas RTU definētajos termiņos (turpmāk - XX.XX.XXXX.) par BD iesniegšanu;
 - Fails, ko students vēlas augšupielādēt, atbilst .pdf formātam.
 Darbība:
-+ Students no BDIAS sākumlapas novirzas uz BDIAS sadaļu “Noslēguma darba iesniegšana”;
++ Students no BDIAS sākumlapas novirzās uz BDIAS sadaļu “Noslēguma darba iesniegšana”;
 + Students nospiež pogu “Iesniegt bakalaura darbu”;
 + Students redz BDIAS sadaļas “Bakalaura darba iesniegšana” grafisko izklājumu ar šādu saturu:
     - Teksts: “Lai iesniegtu bakalaura darbu, nospiediet “Pievienot bakalaura darbu”. Lai atgrieztos sadaļā “Noslēguma darba iesniegšana”, nospiediet “Atpakaļ”. 
@@ -131,24 +130,22 @@ Rezultāts:
 - Atveras jauns uznirstošais logs ar šādu saturu:
     - Teksts: “Bakalaura darbs ir veiksmīgi iesniegts!”;
     - Poga: “Sapratu”;
-- Nomainas teksts uz “Bakalaura darba statuss: Ir iesniegts” iekš “Bakalaura darba iesniegšana” sadaļas.
+- Nomainās teksts uz “Bakalaura darba statuss: Ir iesniegts” iekš “Bakalaura darba iesniegšana” sadaļas.
 ]
 
 #set text(size: 12pt)
 == Lejupielādēt saturu
 
-=== Studentam ir iespēja lejupielādēt tēmas iesnieguma veidlapu
+=== Studentam ir iespēja lejupielādēt tēmas iesnieguma veidlapu <ch1>
 
 #re()[
 BDIAS nodrošina lietotāju grupai “Students” iespēju lejupielādēt BD tēmas iesnieguma veidlapas .docx formāta failu no BDIAS sadaļas “Bakalaura darba tēmas”.
 
 Priekšnosacījumi:
-- Studentam ir izveidots konts BDIAS (lietotājvārds un parole);
-- Students ir autorizējies BDIAS;
 - Lietvedība ir BDIAS augšupielādējusi BD tēmas iesnieguma veidlapas failu;
 - BD tēmas iesnieguma veidlapas fails ir .docx formāta.
 Darbība:
-+ Students no BDIAS sākumlapas novirzas uz BDIAS sadaļu “Bakalaura darba tēmas”;
++ Students no BDIAS sākumlapas novirzās uz BDIAS sadaļu “Bakalaura darba tēmas”;
 + Students nospiež pogu “Lejupielādēt”, kas atrodas labajā pusē no teksta “Bakalaura darba tēmas iesnieguma veidlapa”;
 + Tiek atvērts failu pārvaldnieks;
 + Students izvēlas ceļu BD tēmas iesnieguma veidlapas failam uz cietā diska diskdziņa;
@@ -163,8 +160,8 @@ Rezultāts:
 Priekšnosacījumi:
 - Darba vadītājam vai lietvedei, vai programmas direktoram ir izveidots konts;
 - Autorizējies sistēmā;
-- Students iesniedzis parakstītu iesniegumu, atbilstoši 3.1 punktam
-- Darba vadītājam vai lietvedei, vai programmas direktoramam izveidots elektroniskais paraksts
+- Students iesniedzis parakstītu iesniegumu, atbilstoši (@ch) punktam
+- Darba vadītājam vai lietvedei, vai programmas direktoram izveidots elektroniskais paraksts
 Darbība:
 - Darba vadītājs vai lietvede, vai programmas direktors izvēlas sadaļu “Bakalaura darba iesniegums”
 - Nospiež, izvēloties attiecīgo studentu, kuram ir parakstīts iesniegums
@@ -179,12 +176,11 @@ Rezultāts:
 
 #re()[
 Priekšnosacījumi:
-- Abas puses-studentu un darba vadītājs ir parakstījušas iesniegumu atbilsotoši noteiktajam 1., 2. Punktam;
 - Programmas direktoram ir izveidots konts un ir autorizējies sistēmā.
 Darbība:
 - Izvēlas sadaļu “Iesniegumi”
 - Nospiež izvēli Reģistrēt iesniegumu
-- Programmas direktoram tiek parādīti visi bakalura darba iesniegumi, kuri ir parakstīti gan no studenta, gan no darba vadītāja puses
+- Programmas direktoram tiek parādīti visi bakalaura darba iesniegumi, kuri ir parakstīti gan no studenta, gan no darba vadītāja puses
 - Izvēlas attiecīgi, kura studenta iesniegumu apstiprināt vai arī norādīt komentāru
 Rezultāts:
 - Sistēma saglabā iesniegumu;
@@ -194,30 +190,12 @@ Rezultāts:
 
 == Pievienot saturu
 
-=== Jābūt iespējai lietvedei pievienot bakalaura vadītāju sarakstu
-
-#re()[
-Priekšnosacījumi:
-- Lietvedei ir izveidots konts:
-- Lietvede autorizējusies sistēmā;
-- Lietvede saņēmusi aizpildītu bakalaura vadītāju sarakstu;
-- Lietvede iekļāvusies termiņā, pievienojot bakalaura vadītāju sarakstu;
-Darbība:
-- Izvēlas sadaļu “Bakalaura vadītāju saraksts”
-- Aktivizē funkciju “Ievietot sarakstu” izklājlapas formātā
-- Apstiprināt rezultātu, uzspiežot uz loga “Apstiprināt izmaiņas” 
-Rezultāts:
-- Tiek pārbaudīts, vai saturs ir pievienots sistēmā
-- Lietvede ir pievienojusi bakalaura vadītāju sarakstu tā, lai studenti un bakalaura vadītāji spētu apskatīt.
-TODO: Automatizēt darba vadītāju un tēmu sarakstu izveidi, lietvedei/programmas direktoram/dekānam pievienot darba vadītāju sarakstam.
-]
-
 === Studentam jābūt iespējai izvēlēties BD vadītāju un tēmu
 #re()[
 Priekšnosacījumi: 
 - Students ir pierakstījies sistēmā ar savu lietotājvārdu un paroli:
 - Ir pieejams saraksts ar BD vadītājiem un tēmām;
-- Izpildīts 3.3.1 punkts;
+- Izpildīts (@ch1) norādītais punkts;
 - Tēma nav aizņemta vai rezervēta
 Darbība:
 - Sistēmā izvēlas sadaļu “Bakalaura darba tēmas”
@@ -245,23 +223,21 @@ Darbība:
     - Darba vadītājam ir jāvar atzīmēt, vai iesniegums ir apstiprināts vai noraidīts;
     - Ja iesniegums ir noraidīts, sistēma paziņo studentam par noraidījumu un dod iespēju izvēlēties citu BD tēmu.
 Rezultāts:
-    - Negatīvā scenārijā: darba tēma ir pieeja citiem studnetiem
-    - Pozitīva scenārijā: darba tēma vair nav pieejama citiem studentiem un uzrādas iesaistītā studenta un darba vadītāja mājaslapā
+    - Negatīvā scenārijā: darba tēma ir pieeja citiem studentiem
+    - Pozitīva scenārijā: darba tēma vairs nav pieejama citiem studentiem un uzrādās iesaistītā studenta un darba vadītāja mājaslapā
 
 ]
 
 === Jābūt iespējai bakalaura darba vadītājam pievienot bakalaura darba tēmu
 #re()[
-Priekšnosacījumi:
-    - Darba vadītājs ir pierakstījies sistēmā ar savu lietotājvārdu un paroli;
 Darbība:
-    - Darba vadītājam ir jāvar izveidot jaunu bakalaura darba tēmue
-    - Darba tēmas izveides lapā jabūt ievadāmai sekojošajai informācijai: 
+    - Darba vadītājam ir jāvar izveidot jaunu bakalaura darba tēmu
+    - Darba tēmas izveides lapā jābūt ievadāmai sekojošajai informācijai: 
     - Darba tēmas tips
-    - Darba temas nosaukums latviski
-    - Darba temas nosaukums angliski
+    - Darba tēmas nosaukums latviski
+    - Darba tēmas nosaukums angliski
     - Darba tēmas apraksts latviski
-    - Darba temas apraksts angliski
+    - Darba tēmas apraksts angliski
     - Darba vadītājam jābūt spējīgam saglabāt iesniegumu
 Rezultāts:
     - Darba tēma ir pieejama visiem studentiem izvēles sarakstā
@@ -273,7 +249,6 @@ Rezultāts:
 
 #re()[
 Priekšnosacījumi:
-    - Students ir pierakstījies sistēmā ar savu lietotājvārdu un paroli;
     - Students ir iesniedzis pieteikumu bakalaura darba tēmai
 Rezultāts:
     - Apskatot bakalaura darba tēmu sarakstu, izvēlētā tēma atrodas statusā “procesā”
@@ -283,7 +258,6 @@ Rezultāts:
 
 #re()[
 Priekšnosacījumi:
-    - Students ir pieslēdzies sistēmai ar savu lietotājvārdu un paroli,
     - Students ir iesniedzis iesniegumu par darba tēmu,
 Darbība:
     - Darba vadītājs apstiprina darba tēmu, parakstot iesniegumu
@@ -295,41 +269,39 @@ Rezultāts:
 
 #re()[
 Priekšnosacījumi:
-    - Students ir pieslēdzies sistēmai ar savu lietotājvārdu un paroli,
     - Students ir iesniedzis iesniegumu par darba tēmu,
 Darbība:
     - Darba vadītājs noraida iesniegumu par darba tēmu,
     - Darba vadītājam jānorāda komentārs, kāpēc darba tēma ir noraidīta un kādas izmaiņas ir jāveic studentam,
 Rezultāts: 
     - Apskatot bakalaura darba tēmu sarakstu, izvēlētā tēma atrodas statusā “noraidīts”,
-    - Studentam ziņapmaiņā no pasniedzēja atnāk Darba vadītāja ziņojums, kur noraksturots kādas problēmas ir iesniegumā,
+    - Studentam ziņas maiņā no pasniedzēja atnāk Darba vadītāja ziņojums, kur noraksturots kādas problēmas ir iesniegumā,
     - Studentam ir iespēja atkārtoti iesniegt iesniegumu.
 ]
 
 === Sistēma parāda, ka tēma ir aizņemta
 #re()[
 Priekšnosacījumi:
-    - Darba vadītājs ir izvētējis un apstiprinājis bakalaura darba tēmas iesniegumu
-    - Darbība:
+    - Darba vadītājs ir izvērtējis un apstiprinājis bakalaura darba tēmas iesniegumu
+Darbība:
     - Sistēmā reģistrēts lietotājs ir atvēris skatu, kur redzamas visas piedāvātās tēmas.
-    - Lietotājs mēģina izvēlēties BD tēmu pie attiecīga darba vaditāja
+    - Lietotājs mēģina izvēlēties BD tēmu pie attiecīga darba vadītāja
 Rezultāts:
     - Sistēma neatļauj izvelēties priekšnosacījumos aprakstītu BD tēmu
-    - Sistēma blakus aizņemtai BD temai norāda to, ka tēma ir jau aizņemta
+    - Sistēma blakus aizņemtai BD tēmai norāda to, ka tēma ir jau aizņemta
 ]
 
 === Sistēma parāda, ka tēma ir rezervēta
 
 #re()[
 Priekšnosacījumi:
-    - Lietotājs ir pieslēdzies sistēmai ar savu lietotājvārdu un paroli,
     - Students ir iesniedzis iesniegumu par bakalaura tēmas izvēli, bet BD vadītājs nav to ne apstiprinājis, ne pilnībā atcēlis. 
 Darbība:
     - Sistēmā reģistrēts lietotājs ir atvēris skatu, kur redzamas visas piedāvātās tēmas.
-    - Lietotājs mēģina izvēlēties BD tēmu pie attiecīga darba vaditāja
+    - Lietotājs mēģina izvēlēties BD tēmu pie attiecīga darba vadītāja
 Rezultāts: 
     - Sistēma neatļauj izvelēties priekšnosacījumos aprakstītu BD tēmu
-    - Sistēma blakus aizņemtai BD temai norāda to, ka tēma ir jau rezervēta
+    - Sistēma blakus aizņemtai BD tēmai norāda to, ka tēma ir jau rezervēta
 
 ]
 
@@ -338,15 +310,15 @@ Rezultāts:
 === Ziņu sūtīšana
 
 #re()[
-Sistēmai jānodrošina iespēja lietotājiem nosūtīt ziņas
+Sistēmai jānodrošina iespēja lietotājiem nosūtīt ziņas.
 
 Ziņas nosūtīšanai ir nepieciešamas šādas funkcijas
-    - Izvēlēties cilvēku, kuram sūtit ziņu
-    - Ziņa tiek izsūtīta un saņemta
-    - Visai sistēmai eksistē viena čata sadaļa
+    - Izvēlēties cilvēku, kuram sūtīt ziņu;
+    - Ziņa tiek izsūtīta un saņemta;
+    - Visai sistēmai eksistē viena terzētāvas sadaļa.
 ]
 
-=== Izvēlēties cilvēku, kuram sūtit ziņu
+=== Izvēlēties cilvēku, kuram sūtīt ziņu
 
 #re()[
 Sistēmai jānodrošina:
@@ -358,7 +330,7 @@ Sistēmai jānodrošina iespēja meklēt cilvēkus pēc to vārdiem un uzvārdie
 === Lietotājam pieejamā informācija par ziņām
 
 #re()[
-Sistēmai jānodrošina iespēja šāda lietotājam redzēt infromācija par ziņām
+Sistēmai jānodrošina iespēja šāda lietotājam redzēt informācija par ziņām
 
 Par ziņām jāuzglabā šāda informācija:
     - Informācija par abiem lietotājiem;
@@ -383,7 +355,7 @@ Priekšnosacījumi:
     - Lietotājs ir iestatījis, ka viņš saņem paziņojumus
 Sistēma automātiski izsūta e-pastus atbilstošajām personām par tuvojošiem datumiem, kuros ir atskaites nodošana, vai citi lieli notikumi. Informācija par datumiem tiek aprakstīta punktā 3.3.1.
 Pirms e-pasta izsūtīšanas lietvedei ir iespējams modificēt: 
-    - cik ilgu laiku pirms datuma tiks izsutīts e-pasts;
+    - cik ilgu laiku pirms datuma tiks izsūtīts e-pasts;
     - e-pasta ziņojuma tekstu;
     - adresātus.
 ]
@@ -424,7 +396,7 @@ Brīdi, kad kāds students piesakās tēmai un students vai darba vadītājs vē
 Darba vadītājs var izvēlēties manuāli apstiprināt, ka tēma ir aizņemta, arī pirms tēmas iesnieguma apstiprināšanas, piemēram, kad tiek formāli tiek sākts rakstīts iesniegums.
 ]
 
-== Statusa izmaiņas bakalaura tēmas TODO: iesniegumam
+== Statusa izmaiņas bakalaura tēmas
 #re()[
 Studentam ir redzami visi viņa iesniegtie dokumenti, tajā skaitā tēmas iesniegums.
 
@@ -439,11 +411,7 @@ Iesnieguma statusu var apskatīt brīdī, kad abpusēji (darba vadītājs, stude
 Iesniegumu programmas direktoram var iesūtīt gan darba vadītājs, gan students. Iesūtīšana notiek caur sistēmas dokumentu iesniegšanas funkciju. Priekšnosacījums - dokumentam jābūt abpusēji parakstītam. 
 
 
-Statusa izmaiņu tēmas iesniegumam var redzēt:
-    - students;
-    - darba vadītājs;
-    - lietvedis;
-    - programmas direktors.
+Statusa izmaiņu tēmas iesniegumam var redzēt visi sistēmas dalībnieki.
 ]
 
 === Statusa izmaiņu administrēšana
@@ -587,12 +555,12 @@ Sistēmai jābūt labi uzskatāmai un viegli rediģējamai, saglabājot funkcion
 
 == Lietotāju profili
 
-=== Profilu informācījas parādīšana
+=== Profilu informācijas parādīšana
 
 #re()[
 Sistēmai jānodrošina iespēja lietotājiem redzēt savu un citu lietotāju profilus.
 
-Lietotāja profila skatā jāparādās šādai lietotāja informācījai:
+Lietotāja profila skatā jāparādās šādai lietotāja informācijai:
     - Vārds;
     - Uzvārds;
     - E-pasts;
@@ -602,10 +570,10 @@ Lietotāja profila skatā jāparādās šādai lietotāja informācījai:
     - Personalizēts apraksts;
 ]
 
-=== Profilu informācījas rediģēšana
+=== Profilu informācijas rediģēšana
 
 #re()[
-Sistēmai jānodrošina iespēja lietotājiem rediģēt savu profila informācīju.
+Sistēmai jānodrošina iespēja lietotājiem rediģēt savu profila informāciju.
 
 Lietotājiem, izņemot administratorus, citu lietotāju profilus nebūs iespējams rediģēt.
 ]
@@ -618,25 +586,24 @@ Sistēmai jānodrošina iespēja lietotājam nonākt līdz sava profila lapai no
 Kā arī, sistēmai jānodrošina iespēja lietotājam nonākt līdz citu lietotāju profiliem caur saziņas sistēmu.
 ]
 
-=== Lietvedībai jābūt iespējai izveidot bakalaura darba vērtēšanas komisiju kopa ar recenzentiem un nosutit šo sarakstu prog. direktoram 
+=== Lietvedībai jābūt iespējai izveidot bakalaura darba vērtēšanas komisiju kopa ar recenzentiem un nosūtīt šo sarakstu prog. direktoram 
 
 #re()[
 Bakalaura darba vērtēšanas komisiju var izveidot un apstiprināt tikai lietotāji ar lomu “Lietvedības darbinieks”.
 ]
 
-=== Apskatīt iesniegto dokumentu statusu (t.i., apstiprināts/ieskaitīts, utt) (kuram ir iespejas apskatit statusu un kuram ir iespeja rediget)
-
+=== Apskatīt iesniegto dokumentu statusu 
 #re()[
 Lietotājiem ar lomām “Darba vadītājs” un  “Lietvedības darbinieks” ir iespēja apskatīt iesniegtus dokumentus un mainīt iesniegto dokumentu statusu uz apstiprināts/ieskaitīts, utt. Šīs statuss būs redzams gan lietotājiem ar lomām “Darba vadītājs” un  “Lietvedības darbinieks”, gan lietotājiem ar lomu “Students”.
 ]
 
-=== Kalendārais plāns ar bakalaura darba iesniegšanas un [priekš]aiztavēšanas datumiem (atgadinajumi)
+=== Kalendārais plāns ar bakalaura darba saistītājām aktivitātēm.
 
 #re()[
 Lietotājiem ar lomām “Darba vadītājs”, “Lietvedības darbinieks” un “Students” ir redzams kalendārs, kurā ir atzīmēti svarīgie datumi:
     - bakalaura darba iesniegšanas datums;
-    - priekšaizstavēšanas datums;
-    - aizstavēšanas datums.
+    - priekšaizstāvēšanas datums;
+    - aizstāvēšanas datums.
 ]
 
 #pagebreak()
