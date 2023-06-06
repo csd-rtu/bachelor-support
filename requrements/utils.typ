@@ -5,7 +5,7 @@
 #let bdias_counter = counter("bdias")
 #let bdias() = block[
   #bdias_counter.step()
-  *BDIAS-#bdias_counter.display()*
+  *BDITAS-#bdias_counter.display()*
 ]
 
 // Creates a requirement table

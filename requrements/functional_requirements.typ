@@ -10,8 +10,8 @@
 
 === Sistēmai var piekļūt noteiktas lietotāju grupas
 #re()[
-Pirms sistēmas izmantošanas lietotājam ir jāautorizējas BDIAS sistēmā.
-BDIAS ir piekļuve šādām lietotāju grupām:
+Pirms sistēmas izmantošanas lietotājam ir jāautorizējas BDITAS sistēmā.
+BDITAS ir piekļuve šādām lietotāju grupām:
 - Students;
 - Darba vadītājs;
 - Lietvede;
@@ -27,14 +27,14 @@ BDIAS ir piekļuve šādām lietotāju grupām:
 
 === Studentam ir iespēja augšupielādēt aizpildītu tēmas iesniegumu
 #re()[
-BDIAS nodrošina lietotāju grupai “Students” iespēju augšupielādēt .pdf formāta failu BDIAS sadaļā “Bakalaura darba tēmas iesniegšana”.
+BDITAS nodrošina lietotāju grupai “Students” iespēju augšupielādēt .pdf formāta failu BDITAS sadaļā “Bakalaura darba tēmas iesniegšana”.
 
 Priekšnosacījumi:
 - Augšupielāde iekļaujas RTU definētajos termiņos (turpmāk - XX.XX.XXXX.) par BD tēmas iesniegšanu;
 - Fails, ko students vēlas augšupielādēt, atbilst .pdf formātam.
 Darbība:
 + Students nospiež pogu “Pieteikt bakalaura darba tēmu”;
-+ Students redz BDIAS sadaļas “Bakalaura darba tēmas iesniegšana” grafisko izklājumu ar šādu saturu:
++ Students redz BDITAS sadaļas “Bakalaura darba tēmas iesniegšana” grafisko izklājumu ar šādu saturu:
     - Teksts: “Lai iesniegtu bakalaura darba tēmas iesniegumu, nospiediet “Pievienot iesniegumu”. Lai atgrieztos sadaļā “Bakalaura darba tēmas”, nospiediet “Atpakaļ”.  Lūdzu iesniedziet tikai .pdf formāta failus. Iesniegumi pēc XX.XX.XXXX. netiek pieņemti.”;
     - Teksts: “Iesnieguma statuss: Nav iesniegts”;
     - Poga: “Pievienot iesniegumu”;
@@ -51,7 +51,7 @@ Darbība:
 + Students nospiež pogu “Iesniegt”.
 
 Rezultāts:
-- Studenta BD tēmas iesniegums ir augšupielādēts BDIAS un saglabāts BDIAS datu struktūrā;
+- Studenta BD tēmas iesniegums ir augšupielādēts BDITAS un saglabāts BDITAS datu struktūrā;
 - Atveras jauns uznirstošais logs ar šādu saturu:
     - Teksts: “Bakalaura darba tēmas iesniegums ir veiksmīgi iesniegts!”;
     - Poga: “Sapratu”;
@@ -62,17 +62,17 @@ Rezultāts:
 
 === Studentam ir iespēja augšupielādēt bakalaura darba atskaiti
 #re()[
-BDIAS nodrošina lietotāju grupai “Students” iespēju augšupielādēt .pdf vai .docx formāta failu BDIAS sadaļā “Bakalaura darba atskaites iesniegšana”.
+BDITAS nodrošina lietotāju grupai “Students” iespēju augšupielādēt .pdf vai .docx formāta failu BDITAS sadaļā “Bakalaura darba atskaites iesniegšana”.
 
 Priekšnosacījumi:
-- Studentam ir izveidots konts BDIAS (lietotājvārds un parole);
-- Students ir autorizējies BDIAS;
+- Studentam ir izveidots konts BDITAS (lietotājvārds un parole);
+- Students ir autorizējies BDITAS;
 - Augšupielāde iekļaujas RTU definētajos termiņos (turpmāk - XX.XX.XXXX.) par BD atskaišu iesniegšanu;
 - Fails, ko students vēlas augšupielādēt, atbilst .pdf vai .docx formātam.
 Darbība:
-+ Students no BDIAS sākumlapas novirzās uz BDIAS sadaļu “Bakalaura darba progress”;
++ Students no BDITAS sākumlapas novirzās uz BDITAS sadaļu “Bakalaura darba progress”;
 + Students nospiež pogu “Iesniegt bakalaura darba atskaiti”;
-+ Students redz BDIAS sadaļas “Bakalaura darba atskaites iesniegšana” grafisko izklājumu ar šādu saturu:
++ Students redz BDITAS sadaļas “Bakalaura darba atskaites iesniegšana” grafisko izklājumu ar šādu saturu:
     - Teksts: “Lai iesniegtu bakalaura darba atskaiti, nospiediet “Pievienot atskaiti”. Lai atgrieztos sadaļā “Bakalaura darba progress”, nospiediet “Atpakaļ”.  Pirms atskaites iesniegšanas, izvēlieties atskaites tipu no nolaižamās izvēlnes “Atskaites tips”!  Lūdzu iesniedziet tikai .pdf vai .docx formāta failus. Atskaites pēc XX.XX.XXXX. netiek pieņemtas.”;
     - Nolaižamā izvēlne: “Atskaites tips” ar vērtībām “Rudens (25%)”; ”Progresa (50%)”; ”Priekšaizstāvēšana (75%)”;
     - Teksts: “Atskaites statuss: Nav iesniegta”;
@@ -90,7 +90,7 @@ Darbība:
     - Poga: “Atcelt”;
 + Students nospiež pogu “Iesniegt”.
 Rezultāts:
-- Studenta BD atskaite ir augšupielādēta BDIAS un saglabāta BDIAS datu struktūrā;
+- Studenta BD atskaite ir augšupielādēta BDITAS un saglabāta BDITAS datu struktūrā;
 - Atveras jauns uznirstošais logs ar šādu saturu:
 - Teksts: “Bakalaura darba atskaite ir veiksmīgi iesniegta!”;
 - Poga: “Sapratu”;
@@ -100,17 +100,17 @@ Rezultāts:
 #pagebreak()
 === Studentam ir iespēja augšupielādēt bakalaura darbu
 #re()[
-BDIAS nodrošina lietotāju grupai “Students” iespēju augšupielādēt .pdf formāta failu BDIAS sadaļā “Bakalaura darba iesniegšana”.
+BDITAS nodrošina lietotāju grupai “Students” iespēju augšupielādēt .pdf formāta failu BDITAS sadaļā “Bakalaura darba iesniegšana”.
 
 Priekšnosacījumi:
-- Studentam ir izveidots konts BDIAS (lietotājvārds un parole);
-- Students ir autorizējies BDIAS;
+- Studentam ir izveidots konts BDITAS (lietotājvārds un parole);
+- Students ir autorizējies BDITAS;
 - Augšupielāde iekļaujas RTU definētajos termiņos (turpmāk - XX.XX.XXXX.) par BD iesniegšanu;
 - Fails, ko students vēlas augšupielādēt, atbilst .pdf formātam.
 Darbība:
-+ Students no BDIAS sākumlapas novirzās uz BDIAS sadaļu “Noslēguma darba iesniegšana”;
++ Students no BDITAS sākumlapas novirzās uz BDITAS sadaļu “Noslēguma darba iesniegšana”;
 + Students nospiež pogu “Iesniegt bakalaura darbu”;
-+ Students redz BDIAS sadaļas “Bakalaura darba iesniegšana” grafisko izklājumu ar šādu saturu:
++ Students redz BDITAS sadaļas “Bakalaura darba iesniegšana” grafisko izklājumu ar šādu saturu:
     - Teksts: “Lai iesniegtu bakalaura darbu, nospiediet “Pievienot bakalaura darbu”. Lai atgrieztos sadaļā “Noslēguma darba iesniegšana”, nospiediet “Atpakaļ”. 
     - Lūdzu iesniedziet tikai .pdf formāta failus. Iesniegumi pēc XX.XX.XXXX. netiek pieņemti.”;
     - Teksts: “Bakalaura darba statuss: Nav iesniegts”;
@@ -127,7 +127,7 @@ Darbība:
     -   Poga: “Atcelt”;
 +   Students nospiež pogu “Iesniegt”.
 Rezultāts:
-- Studenta BD ir augšupielādēts BDIAS un saglabāts BDIAS datu struktūrā;
+- Studenta BD ir augšupielādēts BDITAS un saglabāts BDITAS datu struktūrā;
 - Atveras jauns uznirstošais logs ar šādu saturu:
     - Teksts: “Bakalaura darbs ir veiksmīgi iesniegts!”;
     - Poga: “Sapratu”;
@@ -141,13 +141,13 @@ Rezultāts:
 === Studentam ir iespēja lejupielādēt tēmas iesnieguma veidlapu <ch1>
 
 #re()[
-BDIAS nodrošina lietotāju grupai “Students” iespēju lejupielādēt BD tēmas iesnieguma veidlapas .docx formāta failu no BDIAS sadaļas “Bakalaura darba tēmas”.
+BDITAS nodrošina lietotāju grupai “Students” iespēju lejupielādēt BD tēmas iesnieguma veidlapas .docx formāta failu no BDITAS sadaļas “Bakalaura darba tēmas”.
 
 Priekšnosacījumi:
-- Lietvedība ir BDIAS augšupielādējusi BD tēmas iesnieguma veidlapas failu;
+- Lietvedība ir BDITAS augšupielādējusi BD tēmas iesnieguma veidlapas failu;
 - BD tēmas iesnieguma veidlapas fails ir .docx formāta.
 Darbība:
-+ Students no BDIAS sākumlapas novirzās uz BDIAS sadaļu “Bakalaura darba tēmas”;
++ Students no BDITAS sākumlapas novirzās uz BDITAS sadaļu “Bakalaura darba tēmas”;
 + Students nospiež pogu “Lejupielādēt”, kas atrodas labajā pusē no teksta “Bakalaura darba tēmas iesnieguma veidlapa”;
 + Tiek atvērts failu pārvaldnieks;
 + Students izvēlas ceļu BD tēmas iesnieguma veidlapas failam uz cietā diska diskdziņa;
